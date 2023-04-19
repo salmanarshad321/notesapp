@@ -1,0 +1,413 @@
+{
+    "success": true,
+    "message": "Request successful",
+    "data": {
+        "id": "a57bdf93-4ce9-4f70-a44a-626b3670cbdb",
+        "pageTypes": [
+            {
+                "id": "a57bdf93-4ce9-4f70-a44a-626b3670cbdb",
+                "name": "Home Page",
+                "key": "HomePage",
+                "type": "HomePage"
+            },
+            {
+                "id": "7e7b8d87-944d-4977-9d72-9113ed426179",
+                "name": "Discovery Page",
+                "key": "DiscoveryPage",
+                "type": "DiscoveryPage"
+            },
+            {
+                "id": "91491f8b-bb02-4af3-a115-5cb56c9c30be",
+                "name": "About Page",
+                "key": "AboutPage",
+                "type": "AboutPage"
+            },
+            {
+                "id": "24fbd1cc-6f15-4b5f-b6f6-1cdbf4a52bb5",
+                "name": "Merchant Home Page",
+                "key": "MerchantHomePage",
+                "type": "MerchantHomePage"
+            }
+        ],
+        "sections": [
+            {
+                "id": "9ca23f0f-8d8b-48d7-89e3-49dae636adcc",
+                "key": "WelcomeBannerWithLiveLocation",
+                "type": "WelcomeBannerWithLiveLocation",
+                "attributes": [
+                    {
+                        "value": "https:\/\/picsum.photos\/756\/500",
+                        "type": "Image",
+                        "key": "BannerImage",
+                        "blueprint": {
+                            "key": "BannerImage",
+                            "type": "Image",
+                            "label": "Banner Image",
+                            "description": "Image for the banner",
+                            "icon": "fas fa-image",
+                            "meta": null,
+                            "dataModel": {
+                                "type": "Image",
+                                "key": "BannerImage",
+                                "meta": null,
+                                "value": "https:\/\/picsum.photos\/756\/500"
+                            },
+                            "tags": []
+                        }
+                    },
+                    {
+                        "value": "Nice to see you back :)",
+                        "type": "Text",
+                        "key": "WelcomeText",
+                        "blueprint": {
+                            "key": "WelcomeText",
+                            "type": "Text",
+                            "label": "Welcome Text",
+                            "description": "Text for the banner",
+                            "icon": "fas fa-image",
+                            "meta": null,
+                            "dataModel": {
+                                "type": "Text",
+                                "key": "WelcomeText",
+                                "meta": null,
+                                "value": "Welcome to Our Website!"
+                            },
+                            "tags": []
+                        }
+                    },
+                    {
+                        "value": "Premium Delivery Service.",
+                        "type": "Text",
+                        "key": "SubText",
+                        "blueprint": {
+                            "key": "SubText",
+                            "type": "Text",
+                            "label": "Sub Text",
+                            "description": "Sub text for the welcome page",
+                            "icon": "fas fa-image",
+                            "meta": null,
+                            "dataModel": {
+                                "type": "Text",
+                                "key": "SubText",
+                                "meta": null,
+                                "value": "Premium Delivery Service."
+                            },
+                            "tags": []
+                        }
+                    }
+                ],
+                "blueprint": {
+                    "type": "WelcomeBannerWithLiveLocation",
+                    "key": "WelcomeBannerWithLiveLocation",
+                    "name": "Welcome Banner With Live Location",
+                    "description": "Image with text",
+                    "icon": "fas fa-image",
+                    "dataModel": [],
+                    "isInsertable": false
+                }
+            }
+        ],
+        "globalSections": [
+            {
+                "_id": "642d6a1c43412a4ff607c186",
+                "id": "d2cc22b7-968b-4916-b859-828c809ebca6",
+                "tenant_id": 1003,
+                "key": "Header",
+                "type": "Header",
+                "locale": "en",
+                "attributes": [
+                    {
+                        "value": "Heading Text!",
+                        "type": "Text",
+                        "key": "HeadingText",
+                        "blueprint": {
+                            "key": "HeadingText",
+                            "type": "Text",
+                            "label": "Heading Text",
+                            "description": "Text for the Heading Text",
+                            "icon": "fas fa-image",
+                            "meta": null,
+                            "dataModel": {
+                                "type": "Text",
+                                "key": "HeadingText",
+                                "meta": null,
+                                "value": "Heading Text"
+                            },
+                            "attributeDataClassPath": "App\\DataObjects\\AttributesData\\TextData",
+                            "tags": []
+                        }
+                    },
+                    {
+                        "value": "https:\/\/via.placeholder.com\/150",
+                        "type": "Image",
+                        "key": "HeaderImage",
+                        "blueprint": {
+                            "key": "HeaderImage",
+                            "type": "Image",
+                            "label": "Header Image",
+                            "description": "Image for the Header",
+                            "icon": "fas fa-image",
+                            "meta": null,
+                            "dataModel": {
+                                "type": "Image",
+                                "key": "HeaderImage",
+                                "meta": null,
+                                "value": "https:\/\/via.placeholder.com\/150"
+                            },
+                            "attributeDataClassPath": "App\\DataObjects\\AttributesData\\ImageData",
+                            "tags": []
+                        }
+                    }
+                ],
+                "updated_at": "2023-04-06T02:51:41.077000Z",
+                "created_at": "2023-04-05T12:31:24.689000Z",
+                "blueprint": {
+                    "type": "Header",
+                    "key": "Header",
+                    "name": "Header",
+                    "description": "Header",
+                    "icon": "fas fa-image",
+                    "dataModel": [],
+                    "isInsertable": true,
+                    "classPath": "App\\Blueprints\\Section\\Header\\HeaderSection",
+                    "attributes": [
+                        {
+                            "key": "HeadingText",
+                            "type": "Text",
+                            "label": "Heading Text",
+                            "description": "Text for the Heading Text",
+                            "icon": "fas fa-image",
+                            "meta": null,
+                            "dataModel": {
+                                "type": "Text",
+                                "key": "HeadingText",
+                                "meta": null,
+                                "value": "Heading Text"
+                            },
+                            "attributeDataClassPath": "App\\DataObjects\\AttributesData\\TextData",
+                            "tags": []
+                        },
+                        {
+                            "key": "HeaderImage",
+                            "type": "Image",
+                            "label": "Header Image",
+                            "description": "Image for the Header",
+                            "icon": "fas fa-image",
+                            "meta": null,
+                            "dataModel": {
+                                "type": "Image",
+                                "key": "HeaderImage",
+                                "meta": null,
+                                "value": "https:\/\/via.placeholder.com\/150"
+                            },
+                            "attributeDataClassPath": "App\\DataObjects\\AttributesData\\ImageData",
+                            "tags": []
+                        }
+                    ]
+                }
+            },
+            {
+                "_id": "642d6a1c43412a4ff607c187",
+                "id": "37ff90fd-6f2b-40b0-b30b-ef1f49db2754",
+                "tenant_id": 1003,
+                "key": "Footer",
+                "type": "Footer",
+                "locale": "en",
+                "attributes": [
+                    {
+                        "value": "Footer Text",
+                        "type": "Text",
+                        "key": "FooterText",
+                        "blueprint": {
+                            "key": "FooterText",
+                            "type": "Text",
+                            "label": "Footer Text",
+                            "description": "Text for the Footer Text",
+                            "icon": "fas fa-image",
+                            "meta": null,
+                            "dataModel": {
+                                "type": "Text",
+                                "key": "FooterText",
+                                "meta": null,
+                                "value": "Footer Text"
+                            },
+                            "attributeDataClassPath": "App\\DataObjects\\AttributesData\\TextData",
+                            "tags": []
+                        }
+                    }
+                ],
+                "updated_at": "2023-04-05T12:31:24.691000Z",
+                "created_at": "2023-04-05T12:31:24.691000Z",
+                "blueprint": {
+                    "type": "Footer",
+                    "key": "Footer",
+                    "name": "Footer",
+                    "description": "Footer",
+                    "icon": "fas fa-image",
+                    "dataModel": [],
+                    "isInsertable": true,
+                    "classPath": "App\\Blueprints\\Section\\Footer\\FooterSection",
+                    "attributes": [
+                        {
+                            "key": "FooterText",
+                            "type": "Text",
+                            "label": "Footer Text",
+                            "description": "Text for the Footer Text",
+                            "icon": "fas fa-image",
+                            "meta": null,
+                            "dataModel": {
+                                "type": "Text",
+                                "key": "FooterText",
+                                "meta": null,
+                                "value": "Footer Text"
+                            },
+                            "attributeDataClassPath": "App\\DataObjects\\AttributesData\\TextData",
+                            "tags": []
+                        }
+                    ]
+                }
+            }
+        ],
+        "pageBlueprint": {
+            "type": "HomePage",
+            "key": "HomePage",
+            "name": "Home Page",
+            "description": "The home page of the website.",
+            "icon": "fas fa-home",
+            "meta": [],
+            "isCustom": false,
+            "sections": [
+                {
+                    "type": "WelcomeBannerWithLiveLocation",
+                    "key": "WelcomeBannerWithLiveLocation",
+                    "name": "Welcome Banner With Live Location",
+                    "description": "Image with text",
+                    "icon": "fas fa-image",
+                    "dataModel": [],
+                    "isInsertable": false,
+                    "classPath": "App\\Blueprints\\Section\\WelcomeBannerWithLiveLocation\\WelcomeBannerWithLiveLocationSection",
+                    "attributes": [
+                        {
+                            "key": "BannerImage",
+                            "type": "Image",
+                            "label": "Banner Image",
+                            "description": "Image for the banner",
+                            "icon": "fas fa-image",
+                            "meta": null,
+                            "dataModel": {
+                                "type": "Image",
+                                "key": "BannerImage",
+                                "meta": null,
+                                "value": "https:\/\/picsum.photos\/756\/500"
+                            },
+                            "attributeDataClassPath": "App\\DataObjects\\AttributesData\\ImageData",
+                            "tags": []
+                        },
+                        {
+                            "key": "WelcomeText",
+                            "type": "Text",
+                            "label": "Welcome Text",
+                            "description": "Text for the banner",
+                            "icon": "fas fa-image",
+                            "meta": null,
+                            "dataModel": {
+                                "type": "Text",
+                                "key": "WelcomeText",
+                                "meta": null,
+                                "value": "Welcome to Our Website!"
+                            },
+                            "attributeDataClassPath": "App\\DataObjects\\AttributesData\\TextData",
+                            "tags": []
+                        },
+                        {
+                            "key": "SubText",
+                            "type": "Text",
+                            "label": "Sub Text",
+                            "description": "Sub text for the welcome page",
+                            "icon": "fas fa-image",
+                            "meta": null,
+                            "dataModel": {
+                                "type": "Text",
+                                "key": "SubText",
+                                "meta": null,
+                                "value": "Premium Delivery Service."
+                            },
+                            "attributeDataClassPath": "App\\DataObjects\\AttributesData\\TextData",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "type": "ImageWithText",
+                    "key": "ImageWithText",
+                    "name": "Image With Text",
+                    "description": "Image with text",
+                    "icon": "fas fa-image",
+                    "dataModel": [],
+                    "isInsertable": true,
+                    "classPath": "App\\Blueprints\\Section\\ImageWithText\\ImageWithTextSection",
+                    "attributes": [
+                        {
+                            "key": "MainText",
+                            "type": "Text",
+                            "label": "Main Text",
+                            "description": "Text for the Main Text",
+                            "icon": "fas fa-image",
+                            "meta": null,
+                            "dataModel": {
+                                "type": "Text",
+                                "key": "MainText",
+                                "meta": null,
+                                "value": "Main Text"
+                            },
+                            "attributeDataClassPath": "App\\DataObjects\\AttributesData\\TextData",
+                            "tags": []
+                        },
+                        {
+                            "key": "size",
+                            "type": "DropDown",
+                            "label": "Size",
+                            "description": "Size of the image",
+                            "icon": "fas fa-image",
+                            "meta": {
+                                "sizes": [
+                                    "small",
+                                    "medium",
+                                    "large"
+                                ]
+                            },
+                            "dataModel": {
+                                "type": "DropDown",
+                                "key": "size",
+                                "meta": null,
+                                "value": "medium"
+                            },
+                            "attributeDataClassPath": "App\\DataObjects\\AttributesData\\DropDownData",
+                            "tags": [
+                                "general"
+                            ]
+                        },
+                        {
+                            "key": "MainImage",
+                            "type": "Image",
+                            "label": "Main Image",
+                            "description": "Image for the banner",
+                            "icon": "fas fa-image",
+                            "meta": null,
+                            "dataModel": {
+                                "type": "Image",
+                                "key": "MainImage",
+                                "meta": null,
+                                "value": "https:\/\/via.placeholder.com\/150"
+                            },
+                            "attributeDataClassPath": "App\\DataObjects\\AttributesData\\ImageData",
+                            "tags": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "service": "pagebuilder",
+    "status_code": 200
+}
