@@ -1,0 +1,2054 @@
+{
+    "success": true,
+    "data": [
+        {
+            "_id": "6107870b3a133b51517fb1af",
+            "phone": "+91 123456789",
+            "address": "Hazratganj,opp Saharaganj Mall Lucknow UP 226001",
+            "city": "Lucknow",
+            "accepted_order_types": [
+                "pickup",
+                "delivery"
+            ],
+            "status": false,
+            "merchant_id": "6107870b3a133b51517fb1af",
+            "images": {
+                "cover": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/d1287b0a-a848-4e62-8c14-c1a864e7c235.jpeg",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/d1287b0a-a848-4e62-8c14-c1a864e7c235.jpeg"
+                },
+                "logo": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/89268da5-7010-4642-9cd1-98b89f3924cb.png",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-89268da5-7010-4642-9cd1-98b89f3924cb.png"
+                }
+            },
+            "is_sponsored": null,
+            "sponsored_expiration": null,
+            "sponsored_rank": null,
+            "sponsored_text": null,
+            "is_featured": true,
+            "featured_rank": 7,
+            "language_translation": [
+                {
+                    "key": "name",
+                    "locale": "en",
+                    "value": "Royal Cafe (Hazratganj)"
+                }
+            ],
+            "merchant_categories": [],
+            "name": "Royal Cafe (Hazratganj)",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "61078c33d3d2db2c2525c07f",
+            "phone": "2",
+            "address": "SAHNKER CHAURAHA",
+            "city": "Lucknow",
+            "accepted_order_types": [
+                "pickup",
+                "delivery"
+            ],
+            "status": false,
+            "merchant_id": "61078c33d3d2db2c2525c07f",
+            "is_sponsored": null,
+            "sponsored_expiration": null,
+            "sponsored_rank": null,
+            "sponsored_text": null,
+            "images": {
+                "cover": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/341981e3-eb52-46c3-aa45-16624abac740.jpeg",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/341981e3-eb52-46c3-aa45-16624abac740.jpeg"
+                },
+                "logo": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/a5e955b3-c4e7-4535-b0c8-d82d92c096d1.png",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-a5e955b3-c4e7-4535-b0c8-d82d92c096d1.png"
+                }
+            },
+            "is_featured": null,
+            "featured_rank": 0,
+            "language_translation": [
+                {
+                    "key": "name",
+                    "locale": "en",
+                    "value": "Aadab-e-Dastarkhwan"
+                }
+            ],
+            "merchant_categories": [],
+            "name": "Aadab-e-Dastarkhwan",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "61078da80dd978000e718b9a",
+            "phone": "3",
+            "address": "SAHNKER CHAURAHA",
+            "city": "Lucknow",
+            "accepted_order_types": [
+                "pickup",
+                "delivery"
+            ],
+            "status": true,
+            "merchant_id": "61078da80dd978000e718b9a",
+            "featured_rank": 4,
+            "is_featured": true,
+            "is_sponsored": null,
+            "sponsored_expiration": null,
+            "sponsored_rank": null,
+            "sponsored_text": null,
+            "images": {
+                "logo": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/files/f575f31b-57fe-467d-b67f-64b3a1bdd1bfFrame%202%20%281%29.svg",
+                    "image_thumb_url": null
+                },
+                "cover": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/a3aff48b-59e0-4636-9613-252a7fc54017.jpeg",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/a3aff48b-59e0-4636-9613-252a7fc54017.jpeg"
+                }
+            },
+            "language_translation": [
+                {
+                    "key": "name",
+                    "locale": "en",
+                    "value": "John's Burgers"
+                },
+                {
+                    "locale": "hi",
+                    "key": "name",
+                    "value": "सबवे (पत्रकार पुरम)"
+                },
+                {
+                    "locale": "ar",
+                    "key": "name",
+                    "value": "مترو الانفاق (باتراكار بورام)"
+                }
+            ],
+            "merchant_categories": [],
+            "name": "John's Burgers",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "61078e3a50c42d69ca71cbea",
+            "phone": null,
+            "address": "Kaiserbagh chauraha Lucknow UP 226018",
+            "city": "Lucknow",
+            "accepted_order_types": [
+                "delivery",
+                "pickup"
+            ],
+            "status": false,
+            "merchant_id": "61078e3a50c42d69ca71cbea",
+            "featured_rank": 3,
+            "is_featured": null,
+            "images": {
+                "logo": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/a7bc1c1a-47c6-428b-b65d-e9c66b37523a.webp",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-a7bc1c1a-47c6-428b-b65d-e9c66b37523a.webp"
+                },
+                "cover": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/49fac08b-ec71-449d-a495-358bbe68009a.webp",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-49fac08b-ec71-449d-a495-358bbe68009a.webp"
+                }
+            },
+            "is_sponsored": null,
+            "sponsored_expiration": null,
+            "sponsored_text": null,
+            "sponsored_rank": null,
+            "language_translation": [
+                {
+                    "key": "name",
+                    "locale": "en",
+                    "value": "Ashwini Lassi"
+                }
+            ],
+            "merchant_categories": [],
+            "name": "Ashwini Lassi",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "610793ce0dd978000e718b9b",
+            "phone": "434",
+            "address": "SAHNKER CHAURAHA",
+            "city": "Lucknow",
+            "accepted_order_types": [
+                "delivery",
+                "pickup"
+            ],
+            "status": true,
+            "merchant_id": "610793ce0dd978000e718b9b",
+            "images": {
+                "logo": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/files/c55b6696-50f1-4335-9550-fbb83debbfbaFrame%201440.svg",
+                    "image_thumb_url": null
+                },
+                "cover": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/8fe18d8f-ab1b-4e45-83fa-d3e250f9030b.jpeg",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/8fe18d8f-ab1b-4e45-83fa-d3e250f9030b.jpeg"
+                }
+            },
+            "is_sponsored": true,
+            "sponsored_expiration": "2022-12-23 00:00:00",
+            "sponsored_text": null,
+            "sponsored_rank": 0,
+            "is_featured": null,
+            "featured_rank": 0,
+            "language_translation": [
+                {
+                    "key": "name",
+                    "locale": "en",
+                    "value": "Teddy's ice cream"
+                }
+            ],
+            "merchant_categories": [],
+            "name": "Teddy's ice cream",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "610d347a4fd1f46dc00b5fb8",
+            "phone": "2",
+            "address": "SAHNKER CHAURAHA",
+            "city": "Lucknow",
+            "accepted_order_types": [
+                "delivery",
+                "pickup"
+            ],
+            "status": true,
+            "merchant_id": "610d347a4fd1f46dc00b5fb8",
+            "images": {
+                "logo": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/e4246ba0-e1a0-4e5b-a4d3-906de146070e.jpeg",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-e4246ba0-e1a0-4e5b-a4d3-906de146070e.jpeg"
+                },
+                "cover": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1/images/1100ac0c-4bd4-41ec-998b-d1af6102907a.jpeg",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1/images/1100ac0c-4bd4-41ec-998b-d1af6102907a.jpeg"
+                }
+            },
+            "is_sponsored": null,
+            "sponsored_expiration": null,
+            "sponsored_text": null,
+            "sponsored_rank": null,
+            "is_featured": null,
+            "featured_rank": 3,
+            "language_translation": [
+                {
+                    "key": "name",
+                    "locale": "en",
+                    "value": "Mughlai Zaiqa (Lalbagh)"
+                }
+            ],
+            "merchant_categories": [],
+            "name": "Mughlai Zaiqa (Lalbagh)",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "610d37793e86906e60296368",
+            "phone": "+91 81153 42928",
+            "address": "SAHNKER CHAURAHA",
+            "city": "Lucknow",
+            "accepted_order_types": [
+                "delivery",
+                "pickup"
+            ],
+            "status": true,
+            "merchant_id": "610d37793e86906e60296368",
+            "images": {
+                "logo": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/files/f54e3276-d864-41b4-bfc6-177f8e33a3d8Frame%201445.svg",
+                    "image_thumb_url": null
+                },
+                "cover": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/5b64c9b9-967f-4dbc-9006-85abfc4da2b9.jpeg",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/5b64c9b9-967f-4dbc-9006-85abfc4da2b9.jpeg"
+                }
+            },
+            "is_featured": null,
+            "featured_rank": 1,
+            "language_translation": [
+                {
+                    "key": "name",
+                    "locale": "en",
+                    "value": "Tom's Bakery"
+                }
+            ],
+            "is_sponsored": null,
+            "sponsored_expiration": null,
+            "sponsored_text": null,
+            "sponsored_rank": null,
+            "merchant_categories": [],
+            "name": "Tom's Bakery",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "610d393fad2ff360645571f6",
+            "phone": "12321",
+            "address": "SAHNKER CHAURAHA",
+            "city": "Lucknow",
+            "accepted_order_types": [
+                "delivery",
+                "pickup"
+            ],
+            "status": false,
+            "merchant_id": "610d393fad2ff360645571f6",
+            "images": {
+                "logo": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/files/3011211d-d839-4763-81f3-2d04d62b217bGroup%204491.svg",
+                    "image_thumb_url": null
+                },
+                "cover": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/5da98a0a-9de8-42e4-8545-3fd2f66d2711.jpeg",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/5da98a0a-9de8-42e4-8545-3fd2f66d2711.jpeg"
+                }
+            },
+            "is_featured": null,
+            "featured_rank": 6,
+            "is_sponsored": null,
+            "sponsored_expiration": null,
+            "sponsored_text": null,
+            "sponsored_rank": null,
+            "language_translation": [
+                {
+                    "key": "name",
+                    "locale": "en",
+                    "value": "Red Dragon | Chopstix"
+                }
+            ],
+            "merchant_categories": [],
+            "name": "Red Dragon | Chopstix",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "610d3b57a9bf5b555c571168",
+            "phone": "3",
+            "address": "SAHNKER CHAURAHA",
+            "city": "Lucknow",
+            "accepted_order_types": [
+                "delivery",
+                "pickup"
+            ],
+            "status": false,
+            "merchant_id": "610d3b57a9bf5b555c571168",
+            "images": {
+                "logo": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/caea4fb2-3565-4204-92c2-c692b077032a.png",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/caea4fb2-3565-4204-92c2-c692b077032a.png"
+                },
+                "cover": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/98e49283-10de-4bd1-b9b7-38c6781bbf24.webp",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-98e49283-10de-4bd1-b9b7-38c6781bbf24.webp"
+                }
+            },
+            "is_sponsored": null,
+            "sponsored_expiration": null,
+            "sponsored_rank": null,
+            "sponsored_text": null,
+            "is_featured": null,
+            "featured_rank": 2,
+            "language_translation": [
+                {
+                    "key": "name",
+                    "locale": "en",
+                    "value": "Tunday Kababi (Aliganj)"
+                }
+            ],
+            "merchant_categories": [],
+            "name": "Tunday Kababi (Aliganj)",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "610d3d4e5259b571d72c32f7",
+            "phone": "+91 86013 25891",
+            "address": "513, New Basti Sadar",
+            "city": "Lucknow",
+            "accepted_order_types": [
+                "delivery",
+                "pickup"
+            ],
+            "status": false,
+            "merchant_id": "610d3d4e5259b571d72c32f7",
+            "images": {
+                "logo": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/9866be54-a4e2-4320-b7ac-d8abe32bed7a.jpeg",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-9866be54-a4e2-4320-b7ac-d8abe32bed7a.jpeg"
+                },
+                "cover": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/d3f81750-ef11-4727-aad7-89f6a33a2c19.webp",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-d3f81750-ef11-4727-aad7-89f6a33a2c19.webp"
+                }
+            },
+            "language_translation": [
+                {
+                    "key": "name",
+                    "locale": "en",
+                    "value": "Muradabadi Biryani"
+                }
+            ],
+            "merchant_categories": [],
+            "name": "Muradabadi Biryani",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "6142d7ebb65c2f700827234c",
+            "phone": "2334234324324",
+            "address": "SAHNKER CHAURAHA",
+            "city": "Lucknow",
+            "accepted_order_types": [
+                "pickup",
+                "delivery"
+            ],
+            "status": true,
+            "merchant_id": "6142d7ebb65c2f700827234c",
+            "images": {
+                "logo": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/files/1eb91646-a732-4231-9603-18590eafc53fFrame%201443.svg",
+                    "image_thumb_url": null
+                },
+                "cover": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/04c92e80-e512-41e7-bd54-aa270c5e37c7.png",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/04c92e80-e512-41e7-bd54-aa270c5e37c7.png"
+                }
+            },
+            "is_featured": true,
+            "featured_rank": 3,
+            "is_sponsored": null,
+            "sponsored_expiration": null,
+            "sponsored_text": null,
+            "sponsored_rank": null,
+            "language_translation": [
+                {
+                    "key": "name",
+                    "locale": "en",
+                    "value": "Donald's"
+                }
+            ],
+            "merchant_categories": [],
+            "name": "Donald's",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "61695724be6f163d1264ad45",
+            "phone": "434",
+            "address": "SAHNKER CHAURAHA",
+            "city": "lucknow",
+            "accepted_order_types": [
+                "delivery",
+                "pickup"
+            ],
+            "status": true,
+            "merchant_id": "61695724be6f163d1264ad45",
+            "images": {
+                "cover": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/c3047c3b-3958-49f5-9319-8a974027abd9.jpeg",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/c3047c3b-3958-49f5-9319-8a974027abd9.jpeg"
+                },
+                "logo": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/files/9b6986b3-548a-4dc0-917f-81a6a34e6206Frame%201446.svg",
+                    "image_thumb_url": null
+                }
+            },
+            "is_sponsored": null,
+            "sponsored_expiration": null,
+            "sponsored_text": null,
+            "sponsored_rank": null,
+            "is_featured": null,
+            "featured_rank": 1,
+            "language_translation": [
+                {
+                    "key": "name",
+                    "locale": "en",
+                    "value": "KCF"
+                }
+            ],
+            "merchant_categories": [],
+            "name": "KCF",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "61695cba3a45d5522b040117",
+            "phone": "2",
+            "address": "SAHNKER CHAURAHA",
+            "city": null,
+            "accepted_order_types": [
+                "pickup",
+                "delivery"
+            ],
+            "status": true,
+            "merchant_id": "61695cba3a45d5522b040117",
+            "images": {
+                "logo": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/files/d70aa287-c532-4417-97d3-88692b5fc4b6Frame%201439.svg",
+                    "image_thumb_url": null
+                },
+                "cover": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/bb72a159-f6af-40a6-b640-814f58f90cef.jpeg",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/bb72a159-f6af-40a6-b640-814f58f90cef.jpeg"
+                }
+            },
+            "is_sponsored": null,
+            "sponsored_expiration": null,
+            "sponsored_text": null,
+            "sponsored_rank": null,
+            "is_featured": true,
+            "featured_rank": 0,
+            "language_translation": [
+                {
+                    "key": "name",
+                    "locale": "en",
+                    "value": "THE MILKSHAKE HUB"
+                }
+            ],
+            "merchant_categories": [],
+            "name": "THE MILKSHAKE HUB",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "61696478fea6940d227483be",
+            "phone": null,
+            "address": null,
+            "city": null,
+            "accepted_order_types": [
+                "delivery",
+                "pickup"
+            ],
+            "status": true,
+            "merchant_id": "61696478fea6940d227483be",
+            "images": {
+                "cover": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/f6f7b4cb-3055-4ad6-bf81-ef22ce2fc575.jpeg",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/f6f7b4cb-3055-4ad6-bf81-ef22ce2fc575.jpeg"
+                },
+                "logo": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/files/5cc3a99f-37ef-4034-be58-c8cdf275a11aFrame%201441.svg",
+                    "image_thumb_url": null
+                }
+            },
+            "is_featured": true,
+            "featured_rank": 1,
+            "language_translation": [
+                {
+                    "key": "name",
+                    "locale": "en",
+                    "value": "Wrap & Roll"
+                }
+            ],
+            "merchant_categories": [],
+            "name": "Wrap & Roll",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "61696a822ce2c761ba1d80a9",
+            "phone": "3242",
+            "address": "SAHNKER CHAURAHA",
+            "city": null,
+            "accepted_order_types": [
+                "delivery",
+                "pickup"
+            ],
+            "status": true,
+            "merchant_id": "61696a822ce2c761ba1d80a9",
+            "images": {
+                "cover": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/d951171c-0e5e-44b9-a59c-cb9de71a0f20.jpeg",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/d951171c-0e5e-44b9-a59c-cb9de71a0f20.jpeg"
+                },
+                "logo": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/files/cd3da1b6-4e2a-4b73-b09a-cfd3e171ce11Frame%201442.svg",
+                    "image_thumb_url": null
+                }
+            },
+            "is_featured": true,
+            "featured_rank": 2,
+            "language_translation": [
+                {
+                    "key": "name",
+                    "locale": "en",
+                    "value": "Peters's Pizza"
+                }
+            ],
+            "is_sponsored": null,
+            "sponsored_expiration": null,
+            "sponsored_text": null,
+            "sponsored_rank": null,
+            "merchant_categories": [],
+            "name": "Peters's Pizza",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "616989f83a45d5522b04011a",
+            "phone": "453534534",
+            "address": "SAHNKER CHAURAHA",
+            "city": null,
+            "accepted_order_types": [
+                "pickup",
+                "delivery"
+            ],
+            "status": false,
+            "merchant_id": "616989f83a45d5522b04011a",
+            "images": {
+                "cover": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/b870225c-cf63-4f29-941e-5db191e30301.jpeg",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-b870225c-cf63-4f29-941e-5db191e30301.jpeg"
+                },
+                "logo": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/29923c52-60a7-4abf-840c-0940e355d358.jpeg",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-29923c52-60a7-4abf-840c-0940e355d358.jpeg"
+                }
+            },
+            "language_translation": [
+                {
+                    "key": "name",
+                    "locale": "en",
+                    "value": "Neelkanth Sweets"
+                }
+            ],
+            "merchant_categories": [],
+            "name": "Neelkanth Sweets",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "616d3e4a25385c608d08cb88",
+            "phone": "33",
+            "address": "SAHNKER CHAURAHA",
+            "city": null,
+            "accepted_order_types": [
+                "pickup"
+            ],
+            "status": false,
+            "merchant_id": "616d3e4a25385c608d08cb88",
+            "images": {
+                "logo": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/4b9b2556-7d88-4942-bcbe-f2c3e040402c.jpeg",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-4b9b2556-7d88-4942-bcbe-f2c3e040402c.jpeg"
+                },
+                "cover": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/41bbb8ad-3857-46b2-9233-2c1084017eab.jpeg",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-41bbb8ad-3857-46b2-9233-2c1084017eab.jpeg"
+                }
+            },
+            "is_featured": null,
+            "featured_rank": 1,
+            "language_translation": [
+                {
+                    "key": "name",
+                    "locale": "en",
+                    "value": "Azhar Bhai Ka Paan"
+                }
+            ],
+            "merchant_categories": [],
+            "name": "Azhar Bhai Ka Paan",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "617d2aa127a56917e928ca33",
+            "phone": null,
+            "address": "Aliganj, Kapoorthala Lucknow UP 226024",
+            "city": "lucknow",
+            "accepted_order_types": [
+                "delivery",
+                "pickup"
+            ],
+            "status": false,
+            "merchant_id": "617d2aa127a56917e928ca33",
+            "images": {
+                "logo": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/ac677216-c8ac-42e4-ab8f-2679f748a6c6.jpeg",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-ac677216-c8ac-42e4-ab8f-2679f748a6c6.jpeg"
+                },
+                "cover": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/cf041479-3590-4b8a-bef4-18909b748da8.webp",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-cf041479-3590-4b8a-bef4-18909b748da8.webp"
+                }
+            },
+            "is_featured": null,
+            "featured_rank": 0,
+            "language_translation": [
+                {
+                    "key": "name",
+                    "locale": "en",
+                    "value": "Dosa Planet"
+                }
+            ],
+            "merchant_categories": [],
+            "name": "Dosa Planet",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "617d303511c8966aa00a5fc8",
+            "phone": "34",
+            "address": null,
+            "city": "lucknow",
+            "accepted_order_types": [
+                "delivery",
+                "pickup"
+            ],
+            "status": true,
+            "merchant_id": "617d303511c8966aa00a5fc8",
+            "images": {
+                "logo": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/files/fd441e2e-6929-4cd8-9101-08d0b25298c2Frame%201441%202.svg",
+                    "image_thumb_url": null
+                },
+                "cover": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1/images/012d5117-a597-4d35-8b35-4f28f4a74d65.jpeg",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1/images/012d5117-a597-4d35-8b35-4f28f4a74d65.jpeg"
+                }
+            },
+            "is_sponsored": null,
+            "sponsored_expiration": null,
+            "sponsored_text": null,
+            "sponsored_rank": null,
+            "is_featured": true,
+            "featured_rank": 4,
+            "language_translation": [
+                {
+                    "key": "name",
+                    "locale": "en",
+                    "value": "Hella's Chicken"
+                }
+            ],
+            "merchant_categories": [],
+            "name": "Hella's Chicken",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "618b77d490a021698c10d527",
+            "phone": "+91 90909 09090",
+            "address": "Vikash nagar",
+            "accepted_order_types": [
+                "delivery"
+            ],
+            "status": true,
+            "merchant_id": "618b77d490a021698c10d527",
+            "images": {
+                "logo": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/fcdbdefd-034b-4091-afcc-0ca57a902c37.webp",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-fcdbdefd-034b-4091-afcc-0ca57a902c37.webp"
+                },
+                "cover": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/73612bc1-a8e2-42b3-8a5d-a183d0a98b64.jpeg",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-73612bc1-a8e2-42b3-8a5d-a183d0a98b64.jpeg"
+                }
+            },
+            "is_featured": true,
+            "featured_rank": 5,
+            "language_translation": [
+                {
+                    "key": "name",
+                    "locale": "en",
+                    "value": "Online kaka Nature"
+                }
+            ],
+            "merchant_categories": [],
+            "name": "Online kaka Nature",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "61c96a1b94db0b6c236455c0",
+            "phone": "2322",
+            "address": "SAHNKER CHAURAHA",
+            "accepted_order_types": [
+                "delivery",
+                "pickup"
+            ],
+            "status": true,
+            "merchant_id": "61c96a1b94db0b6c236455c0",
+            "images": {
+                "logo": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/files/c9714960-3942-41d7-8357-053817928cf0Frame%201444.svg",
+                    "image_thumb_url": null
+                },
+                "cover": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/a1e5c8c5-b031-47f3-9065-fe754899e8a8.jpeg",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/a1e5c8c5-b031-47f3-9065-fe754899e8a8.jpeg"
+                }
+            },
+            "is_sponsored": null,
+            "sponsored_expiration": null,
+            "sponsored_text": null,
+            "sponsored_rank": null,
+            "is_featured": true,
+            "featured_rank": 0,
+            "language_translation": [
+                {
+                    "key": "name",
+                    "locale": "en",
+                    "value": "King's Burger"
+                }
+            ],
+            "merchant_categories": [],
+            "name": "King's Burger",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "61d44e5ab1b75061822a3b72",
+            "phone": "+91 4324 234 234",
+            "address": "india",
+            "accepted_order_types": [
+                "delivery",
+                "pickup"
+            ],
+            "status": true,
+            "merchant_id": "61d44e5ab1b75061822a3b72",
+            "images": {
+                "cover": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/52b08d53-00d5-47ba-a0b9-f671a384b3e8.jpeg",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-52b08d53-00d5-47ba-a0b9-f671a384b3e8.jpeg"
+                },
+                "logo": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/e0eb1a22-c046-44ca-9251-4271700c83ef.png",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-e0eb1a22-c046-44ca-9251-4271700c83ef.png"
+                }
+            },
+            "is_sponsored": null,
+            "sponsored_expiration": null,
+            "sponsored_text": null,
+            "sponsored_rank": null,
+            "language_translation": [
+                {
+                    "key": "name",
+                    "locale": "en",
+                    "value": "Bluestone Lane Café"
+                }
+            ],
+            "is_featured": null,
+            "featured_rank": 0,
+            "merchant_categories": [],
+            "name": "Bluestone Lane Café",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "61d6b51b17ab8614a72cd25b",
+            "phone": "34453354345",
+            "address": "SAHNKER CHAURAHA",
+            "accepted_order_types": [
+                "delivery",
+                "pickup"
+            ],
+            "status": false,
+            "merchant_id": "61d6b51b17ab8614a72cd25b",
+            "images": {
+                "logo": {
+                    "image_url": null,
+                    "image_thumb_url": null
+                },
+                "cover": {
+                    "image_url": null,
+                    "image_thumb_url": null
+                }
+            },
+            "is_featured": true,
+            "featured_rank": 0,
+            "is_sponsored": null,
+            "sponsored_expiration": null,
+            "sponsored_text": null,
+            "sponsored_rank": null,
+            "language_translation": [
+                {
+                    "key": "name",
+                    "locale": "en",
+                    "value": "7 Eleven"
+                }
+            ],
+            "merchant_categories": [],
+            "name": "7 Eleven",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "62b1c315f54672795f038de2",
+            "phone": "8601325891",
+            "language_translation": [
+                {
+                    "locale": "en",
+                    "key": "name",
+                    "value": "Buck's cafe"
+                }
+            ],
+            "address": "Hazratganj",
+            "accepted_order_types": [
+                "pickup",
+                "delivery"
+            ],
+            "status": true,
+            "merchant_id": "62b1c315f54672795f038de2",
+            "images": {
+                "logo": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/files/6e3f1b56-2d3f-4247-b2b5-1b9cfaf34c2dFrame%201441%206.svg",
+                    "image_thumb_url": null
+                },
+                "cover": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/8973b64d-e832-4e93-9a53-e1eb8bdd8217.jpeg",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/8973b64d-e832-4e93-9a53-e1eb8bdd8217.jpeg"
+                }
+            },
+            "is_featured": true,
+            "featured_rank": 0,
+            "is_sponsored": true,
+            "sponsored_expiration": "2022-09-29 23:59:00",
+            "sponsored_text": null,
+            "sponsored_rank": 0,
+            "merchant_categories": [],
+            "name": "Buck's cafe",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "62b1d4d8f54672795f038de3",
+            "language_translation": [
+                {
+                    "locale": "en",
+                    "key": "name",
+                    "value": "The Good Egg"
+                }
+            ],
+            "address": null,
+            "accepted_order_types": [
+                "pickup",
+                "delivery"
+            ],
+            "status": true,
+            "merchant_id": "62b1d4d8f54672795f038de3",
+            "images": {
+                "cover": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/eff8a470-a8d8-4ced-9b61-3b3906f103e7.jpeg",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-eff8a470-a8d8-4ced-9b61-3b3906f103e7.jpeg"
+                },
+                "logo": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/7de58d77-91b4-4a01-8e92-e3e60965c39c.png",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-7de58d77-91b4-4a01-8e92-e3e60965c39c.png"
+                }
+            },
+            "is_featured": null,
+            "featured_rank": 0,
+            "is_sponsored": true,
+            "sponsored_expiration": "2022-10-28 00:00:00",
+            "sponsored_text": null,
+            "sponsored_rank": 0,
+            "merchant_categories": [],
+            "name": "The Good Egg",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "62b200e53a3e462f820035d2",
+            "phone": null,
+            "language_translation": [
+                {
+                    "locale": "en",
+                    "key": "name",
+                    "value": "Checkers"
+                }
+            ],
+            "address": null,
+            "accepted_order_types": [
+                "pickup",
+                "delivery"
+            ],
+            "status": true,
+            "merchant_id": "62b200e53a3e462f820035d2",
+            "images": {
+                "cover": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/d63b7f86-c6d3-48c0-b6fb-0bd1fcc9f3ce.jpeg",
+                    "image_thumb_url": null
+                },
+                "logo": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/a13fe1c7-95bd-405f-9366-84c0ae27cb96.png",
+                    "image_thumb_url": null
+                }
+            },
+            "is_featured": null,
+            "featured_rank": 0,
+            "is_sponsored": true,
+            "sponsored_expiration": "2022-08-18 00:00:00",
+            "sponsored_text": null,
+            "sponsored_rank": 0,
+            "merchant_categories": [],
+            "name": "Checkers",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "62b2ad3df54672795f038de4",
+            "phone": null,
+            "language_translation": [
+                {
+                    "locale": "en",
+                    "key": "name",
+                    "value": "Gunpowder Cafe"
+                }
+            ],
+            "address": null,
+            "accepted_order_types": [
+                "pickup",
+                "delivery"
+            ],
+            "status": true,
+            "merchant_id": "62b2ad3df54672795f038de4",
+            "images": {
+                "cover": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/de33d2d9-1f38-404d-9e1e-1e69dfde6e26.jpeg",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-de33d2d9-1f38-404d-9e1e-1e69dfde6e26.jpeg"
+                },
+                "logo": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/7ac5007b-62b1-4399-ac3c-4be659e9e4bc.png",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-7ac5007b-62b1-4399-ac3c-4be659e9e4bc.png"
+                }
+            },
+            "is_featured": null,
+            "featured_rank": 0,
+            "is_sponsored": true,
+            "sponsored_expiration": "2022-07-29 00:01:00",
+            "sponsored_text": null,
+            "sponsored_rank": 0,
+            "merchant_categories": [],
+            "name": "Gunpowder Cafe",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "62b95084f3e8b5a81d0bdb12",
+            "phone": null,
+            "language_translation": [
+                {
+                    "locale": "en",
+                    "key": "name",
+                    "value": "test"
+                }
+            ],
+            "address": null,
+            "accepted_order_types": [
+                "pickup"
+            ],
+            "status": false,
+            "merchant_id": "62b95084f3e8b5a81d0bdb12",
+            "images": {
+                "cover": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/3296c587-cfed-4543-a14d-9a005070b734.png",
+                    "image_thumb_url": null
+                },
+                "logo": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/7badd187-0e47-4bba-a717-d5aad5df760b.jpeg",
+                    "image_thumb_url": null
+                }
+            },
+            "merchant_categories": [],
+            "name": "test",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "62bae2611ced6e9cc400f422",
+            "phone": null,
+            "language_translation": [
+                {
+                    "locale": "en",
+                    "key": "name",
+                    "value": "Dunkin"
+                }
+            ],
+            "address": "USA",
+            "accepted_order_types": [
+                "pickup",
+                "delivery"
+            ],
+            "status": false,
+            "merchant_id": "62bae2611ced6e9cc400f422",
+            "images": {
+                "cover": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/2caa325d-0e51-4853-981f-b047d1db8d8f.jpeg",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-2caa325d-0e51-4853-981f-b047d1db8d8f.jpeg"
+                },
+                "logo": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/af209f2f-1abc-441f-bf98-00d4894a1333.png",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-af209f2f-1abc-441f-bf98-00d4894a1333.png"
+                }
+            },
+            "is_featured": true,
+            "featured_rank": 0,
+            "is_sponsored": null,
+            "sponsored_expiration": null,
+            "sponsored_text": null,
+            "sponsored_rank": null,
+            "merchant_categories": [],
+            "name": "Dunkin",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "62c00dc35bc4ce3e440176d2",
+            "phone": null,
+            "language_translation": [
+                {
+                    "locale": "en",
+                    "key": "name",
+                    "value": "TEST"
+                }
+            ],
+            "address": null,
+            "accepted_order_types": [
+                "pickup",
+                "delivery"
+            ],
+            "status": false,
+            "merchant_id": "62c00dc35bc4ce3e440176d2",
+            "images": {
+                "cover": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/ceb595f9-996f-40ca-a20a-395607146a28.png",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-ceb595f9-996f-40ca-a20a-395607146a28.png"
+                },
+                "logo": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/73e6e082-c4f1-4699-a9ae-cd0b4ffa4e36.png",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-73e6e082-c4f1-4699-a9ae-cd0b4ffa4e36.png"
+                }
+            },
+            "merchant_categories": [],
+            "name": "TEST",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "62c2ef37ccc5e5eb75043db2",
+            "phone": null,
+            "language_translation": [
+                {
+                    "locale": "en",
+                    "key": "name",
+                    "value": "TestMerchant"
+                }
+            ],
+            "address": "Shadab Colony",
+            "accepted_order_types": [
+                "delivery"
+            ],
+            "status": false,
+            "merchant_id": "62c2ef37ccc5e5eb75043db2",
+            "images": {
+                "cover": {
+                    "image_url": null,
+                    "image_thumb_url": null
+                },
+                "logo": {
+                    "image_url": null,
+                    "image_thumb_url": null
+                }
+            },
+            "merchant_categories": [],
+            "name": "TestMerchant",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "62c2f00a1175be816c0c4b92",
+            "phone": null,
+            "language_translation": [
+                {
+                    "locale": "en",
+                    "key": "name",
+                    "value": "Test"
+                }
+            ],
+            "address": null,
+            "accepted_order_types": [
+                "delivery"
+            ],
+            "status": false,
+            "merchant_id": "62c2f00a1175be816c0c4b92",
+            "images": {
+                "cover": {
+                    "image_url": null,
+                    "image_thumb_url": null
+                },
+                "logo": {
+                    "image_url": null,
+                    "image_thumb_url": null
+                }
+            },
+            "merchant_categories": [],
+            "name": "Test",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "62c2f1a2ccc5e5eb75043db3",
+            "phone": null,
+            "language_translation": [
+                {
+                    "locale": "en",
+                    "key": "name",
+                    "value": "TestMerchant"
+                }
+            ],
+            "address": null,
+            "accepted_order_types": [
+                "delivery"
+            ],
+            "status": false,
+            "merchant_id": "62c2f1a2ccc5e5eb75043db3",
+            "images": {
+                "cover": {
+                    "image_url": null,
+                    "image_thumb_url": null
+                },
+                "logo": {
+                    "image_url": null,
+                    "image_thumb_url": null
+                }
+            },
+            "merchant_categories": [],
+            "name": "TestMerchant",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "62c2f251e49529fc82077ce2",
+            "phone": null,
+            "language_translation": [
+                {
+                    "locale": "en",
+                    "key": "name",
+                    "value": "salman"
+                }
+            ],
+            "address": null,
+            "accepted_order_types": [
+                "pickup"
+            ],
+            "status": false,
+            "merchant_id": "62c2f251e49529fc82077ce2",
+            "images": {
+                "cover": {
+                    "image_url": null,
+                    "image_thumb_url": null
+                },
+                "logo": {
+                    "image_url": null,
+                    "image_thumb_url": null
+                }
+            },
+            "merchant_categories": [],
+            "name": "salman",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "62c2f3f962251d557c09ee92",
+            "phone": null,
+            "language_translation": [
+                {
+                    "locale": "en",
+                    "key": "name",
+                    "value": "azam"
+                }
+            ],
+            "address": null,
+            "accepted_order_types": [
+                "delivery"
+            ],
+            "status": true,
+            "merchant_id": "62c2f3f962251d557c09ee92",
+            "images": {
+                "cover": {
+                    "image_url": null,
+                    "image_thumb_url": null
+                },
+                "logo": {
+                    "image_url": null,
+                    "image_thumb_url": null
+                }
+            },
+            "merchant_categories": [],
+            "name": "azam",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "62c2f4e3e3fe25d3a40c97d2",
+            "phone": null,
+            "language_translation": [
+                {
+                    "locale": "en",
+                    "key": "name",
+                    "value": "salman"
+                }
+            ],
+            "address": null,
+            "accepted_order_types": [
+                "delivery"
+            ],
+            "status": false,
+            "merchant_id": "62c2f4e3e3fe25d3a40c97d2",
+            "images": {
+                "cover": {
+                    "image_url": null,
+                    "image_thumb_url": null
+                },
+                "logo": {
+                    "image_url": null,
+                    "image_thumb_url": null
+                }
+            },
+            "merchant_categories": [],
+            "name": "salman",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "62c2f52a14fee34db901ee52",
+            "phone": null,
+            "language_translation": [
+                {
+                    "locale": "en",
+                    "key": "name",
+                    "value": "babu food stall"
+                }
+            ],
+            "address": null,
+            "accepted_order_types": [
+                "delivery"
+            ],
+            "status": true,
+            "merchant_id": "62c2f52a14fee34db901ee52",
+            "images": {
+                "cover": {
+                    "image_url": null,
+                    "image_thumb_url": null
+                },
+                "logo": {
+                    "image_url": null,
+                    "image_thumb_url": null
+                }
+            },
+            "merchant_categories": [],
+            "name": "babu food stall",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "62c3db2c5e8d7cb6c307c2a2",
+            "phone": null,
+            "language_translation": [
+                {
+                    "locale": "en",
+                    "key": "name",
+                    "value": "tersrt"
+                }
+            ],
+            "address": null,
+            "accepted_order_types": [
+                "delivery"
+            ],
+            "status": false,
+            "merchant_id": "62c3db2c5e8d7cb6c307c2a2",
+            "images": {
+                "cover": {
+                    "image_url": null,
+                    "image_thumb_url": null
+                },
+                "logo": {
+                    "image_url": null,
+                    "image_thumb_url": null
+                }
+            },
+            "merchant_categories": [],
+            "name": "tersrt",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "62c3db525e8d7cb6c307c2a3",
+            "phone": null,
+            "language_translation": [
+                {
+                    "locale": "en",
+                    "key": "name",
+                    "value": "order_schedule test"
+                }
+            ],
+            "address": null,
+            "accepted_order_types": [
+                "pickup"
+            ],
+            "status": false,
+            "merchant_id": "62c3db525e8d7cb6c307c2a3",
+            "images": {
+                "cover": {
+                    "image_url": null,
+                    "image_thumb_url": null
+                },
+                "logo": {
+                    "image_url": null,
+                    "image_thumb_url": null
+                }
+            },
+            "merchant_categories": [],
+            "name": "order_schedule test",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "62c55544757fdee2460993b2",
+            "phone": "+91 86013 25891",
+            "language_translation": [
+                {
+                    "locale": "en",
+                    "key": "name",
+                    "value": "sf"
+                }
+            ],
+            "address": "df",
+            "accepted_order_types": [
+                "delivery"
+            ],
+            "status": true,
+            "merchant_id": "62c55544757fdee2460993b2",
+            "merchant_categories": [],
+            "name": "sf",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "62c5555f01d7861af007cd52",
+            "phone": "+91 86013 25891",
+            "language_translation": [
+                {
+                    "locale": "en",
+                    "key": "name",
+                    "value": "sf"
+                }
+            ],
+            "address": "df",
+            "accepted_order_types": [
+                "delivery"
+            ],
+            "status": true,
+            "merchant_id": "62c5555f01d7861af007cd52",
+            "merchant_categories": [],
+            "name": "sf",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "62c556326ad3c3fe140af602",
+            "phone": "+91 86013 25891",
+            "language_translation": [
+                {
+                    "locale": "en",
+                    "key": "name",
+                    "value": "sf"
+                }
+            ],
+            "address": "df",
+            "accepted_order_types": [
+                "delivery"
+            ],
+            "status": true,
+            "merchant_id": "62c556326ad3c3fe140af602",
+            "images": {
+                "cover": {
+                    "image_url": null,
+                    "image_thumb_url": null
+                },
+                "logo": {
+                    "image_url": null,
+                    "image_thumb_url": null
+                }
+            },
+            "merchant_categories": [],
+            "name": "sf",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "62c55679955cde6869025ef2",
+            "phone": null,
+            "language_translation": [
+                {
+                    "locale": "en",
+                    "key": "name",
+                    "value": "sdf"
+                }
+            ],
+            "address": null,
+            "accepted_order_types": [
+                "delivery"
+            ],
+            "status": true,
+            "merchant_id": "62c55679955cde6869025ef2",
+            "images": {
+                "cover": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/f36d1755-5b02-4836-b114-8623dc8d32f0.jpeg",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-f36d1755-5b02-4836-b114-8623dc8d32f0.jpeg"
+                },
+                "logo": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/3e1eeb7e-e65c-4ed7-99a6-c9e4f2efb564.jpeg",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-3e1eeb7e-e65c-4ed7-99a6-c9e4f2efb564.jpeg"
+                }
+            },
+            "merchant_categories": [],
+            "name": "sdf",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "62c55bfb42c3af584a02ff02",
+            "phone": null,
+            "language_translation": [
+                {
+                    "locale": "en",
+                    "key": "name",
+                    "value": "sdfg"
+                }
+            ],
+            "address": null,
+            "accepted_order_types": [
+                "delivery"
+            ],
+            "status": true,
+            "merchant_id": "62c55bfb42c3af584a02ff02",
+            "images": {
+                "cover": {
+                    "image_url": null,
+                    "image_thumb_url": null
+                },
+                "logo": {
+                    "image_url": null,
+                    "image_thumb_url": null
+                }
+            },
+            "merchant_categories": [],
+            "name": "sdfg",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "62c7f8658d0a4c597f022bc2",
+            "phone": "+91 86013 25891",
+            "language_translation": [
+                {
+                    "locale": "en",
+                    "key": "name",
+                    "value": "Test merchant"
+                }
+            ],
+            "address": "513, New Basti Sadar",
+            "accepted_order_types": [
+                "delivery"
+            ],
+            "status": true,
+            "merchant_id": "62c7f8658d0a4c597f022bc2",
+            "images": {
+                "cover": {
+                    "image_url": null,
+                    "image_thumb_url": null
+                },
+                "logo": {
+                    "image_url": null,
+                    "image_thumb_url": null
+                }
+            },
+            "merchant_categories": [],
+            "name": "Test merchant",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "62c7f95c8d0a4c597f022bc3",
+            "phone": null,
+            "language_translation": [
+                {
+                    "locale": "en",
+                    "key": "name",
+                    "value": "test"
+                }
+            ],
+            "address": null,
+            "accepted_order_types": [
+                "pickup"
+            ],
+            "status": true,
+            "merchant_id": "62c7f95c8d0a4c597f022bc3",
+            "images": {
+                "cover": {
+                    "image_url": null,
+                    "image_thumb_url": null
+                },
+                "logo": {
+                    "image_url": null,
+                    "image_thumb_url": null
+                }
+            },
+            "merchant_categories": [],
+            "name": "test",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "62cbdaa42ee469539e0730a7",
+            "phone": null,
+            "language_translation": [
+                {
+                    "locale": "en",
+                    "key": "name",
+                    "value": "test"
+                }
+            ],
+            "address": null,
+            "accepted_order_types": [
+                "delivery"
+            ],
+            "status": true,
+            "merchant_id": "62cbdaa42ee469539e0730a7",
+            "images": {
+                "cover": {
+                    "image_url": null,
+                    "image_thumb_url": null
+                },
+                "logo": {
+                    "image_url": null,
+                    "image_thumb_url": null
+                }
+            },
+            "merchant_categories": [],
+            "name": "test",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "62cbdace5745a16ca00934ec",
+            "phone": null,
+            "language_translation": [
+                {
+                    "locale": "en",
+                    "key": "name",
+                    "value": "test"
+                }
+            ],
+            "address": null,
+            "accepted_order_types": [
+                "pickup",
+                "delivery"
+            ],
+            "status": true,
+            "merchant_id": "62cbdace5745a16ca00934ec",
+            "images": {
+                "cover": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/ae4c1aca-e554-4837-9d9e-6c97ece75d0c.png",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-ae4c1aca-e554-4837-9d9e-6c97ece75d0c.png"
+                },
+                "logo": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/591d713c-c473-49e3-9d98-a8a2d1a7890b.png",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-591d713c-c473-49e3-9d98-a8a2d1a7890b.png"
+                }
+            },
+            "merchant_categories": [],
+            "name": "test",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "62cbdb765745a16ca00934ed",
+            "phone": null,
+            "language_translation": [
+                {
+                    "locale": "en",
+                    "key": "name",
+                    "value": "test"
+                }
+            ],
+            "address": null,
+            "accepted_order_types": [
+                "pickup"
+            ],
+            "status": true,
+            "merchant_id": "62cbdb765745a16ca00934ed",
+            "images": {
+                "cover": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/9fa17303-82bc-4678-a8aa-663a98c49c9e.jpeg",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-9fa17303-82bc-4678-a8aa-663a98c49c9e.jpeg"
+                },
+                "logo": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/b8fb3819-3493-4025-819b-c871d49ee388.jpeg",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-b8fb3819-3493-4025-819b-c871d49ee388.jpeg"
+                }
+            },
+            "merchant_categories": [],
+            "name": "test",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "62e258cbf6e5f03b0208d462",
+            "phone": null,
+            "language_translation": [
+                {
+                    "locale": "en",
+                    "key": "name",
+                    "value": "Kangaroo"
+                }
+            ],
+            "address": null,
+            "accepted_order_types": [
+                "pickup",
+                "delivery"
+            ],
+            "status": true,
+            "merchant_id": "62e258cbf6e5f03b0208d462",
+            "images": {
+                "cover": {
+                    "image_url": null,
+                    "image_thumb_url": null
+                },
+                "logo": {
+                    "image_url": null,
+                    "image_thumb_url": null
+                }
+            },
+            "merchant_categories": [],
+            "name": "Kangaroo",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "62e792f29473cb0d040909b2",
+            "phone": null,
+            "language_translation": [
+                {
+                    "locale": "en",
+                    "key": "name",
+                    "value": "test new"
+                }
+            ],
+            "address": null,
+            "accepted_order_types": [
+                "delivery"
+            ],
+            "status": true,
+            "merchant_id": "62e792f29473cb0d040909b2",
+            "images": {
+                "cover": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/5893d772-8607-4ab1-a32c-d7882171cd83.jpeg",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-5893d772-8607-4ab1-a32c-d7882171cd83.jpeg"
+                },
+                "logo": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/f2dbc701-c75a-4e64-83e6-b5d3853ba988.jpeg",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-f2dbc701-c75a-4e64-83e6-b5d3853ba988.jpeg"
+                }
+            },
+            "merchant_categories": [],
+            "name": "test new",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "62e793f782d1cab7d90d80c2",
+            "phone": null,
+            "language_translation": [
+                {
+                    "locale": "en",
+                    "key": "name",
+                    "value": "ten ten"
+                }
+            ],
+            "address": null,
+            "accepted_order_types": [
+                "delivery"
+            ],
+            "status": true,
+            "merchant_id": "62e793f782d1cab7d90d80c2",
+            "images": {
+                "cover": {
+                    "image_url": null,
+                    "image_thumb_url": null
+                },
+                "logo": {
+                    "image_url": null,
+                    "image_thumb_url": null
+                }
+            },
+            "merchant_categories": [],
+            "name": "ten ten",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "62f35c58c2c0f21c440556e2",
+            "phone": null,
+            "language_translation": [
+                {
+                    "locale": "en",
+                    "key": "name",
+                    "value": "Max Clothing Store"
+                }
+            ],
+            "address": null,
+            "accepted_order_types": [
+                "pickup",
+                "delivery"
+            ],
+            "status": true,
+            "merchant_id": "62f35c58c2c0f21c440556e2",
+            "images": {
+                "cover": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/ce1bc11c-45f2-40ee-8420-7da7392bfc9d.png",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/ce1bc11c-45f2-40ee-8420-7da7392bfc9d.png"
+                },
+                "logo": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/1262e0b0-7869-4d00-9d62-d99e7f4180cd.png",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-1262e0b0-7869-4d00-9d62-d99e7f4180cd.png"
+                }
+            },
+            "is_sponsored": true,
+            "sponsored_expiration": "2022-12-23 00:00:00",
+            "sponsored_text": null,
+            "sponsored_rank": 0,
+            "merchant_categories": [],
+            "name": "Max Clothing Store",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "62f367d1c2c0f21c440556e3",
+            "phone": null,
+            "language_translation": [
+                {
+                    "locale": "en",
+                    "key": "name",
+                    "value": "Duke's Pet Shop"
+                }
+            ],
+            "address": null,
+            "accepted_order_types": [
+                "pickup",
+                "delivery"
+            ],
+            "status": true,
+            "merchant_id": "62f367d1c2c0f21c440556e3",
+            "images": {
+                "cover": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/f8e3e3e4-6199-49e3-8779-2b53942674c9.jpeg",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-f8e3e3e4-6199-49e3-8779-2b53942674c9.jpeg"
+                },
+                "logo": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/87862522-4ea6-4239-ae5e-d011b807806c.png",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-87862522-4ea6-4239-ae5e-d011b807806c.png"
+                }
+            },
+            "is_sponsored": true,
+            "sponsored_expiration": "2023-01-26 00:00:00",
+            "sponsored_text": null,
+            "sponsored_rank": 0,
+            "merchant_categories": [],
+            "name": "Duke's Pet Shop",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "62f3719aa67a38d3f80c8ec2",
+            "phone": null,
+            "language_translation": [
+                {
+                    "locale": "en",
+                    "key": "name",
+                    "value": "Health and Nutrition"
+                }
+            ],
+            "address": null,
+            "accepted_order_types": [
+                "pickup",
+                "delivery"
+            ],
+            "status": true,
+            "merchant_id": "62f3719aa67a38d3f80c8ec2",
+            "images": {
+                "cover": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/388f8d1b-c873-46fd-a38d-894fb817e4c1.png",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-388f8d1b-c873-46fd-a38d-894fb817e4c1.png"
+                },
+                "logo": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/047efa6f-f889-4acd-bf69-49bd96079080.png",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/047efa6f-f889-4acd-bf69-49bd96079080.png"
+                }
+            },
+            "merchant_categories": [],
+            "name": "Health and Nutrition",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "62f3b1e7814f917c7b01be72",
+            "phone": null,
+            "language_translation": [
+                {
+                    "locale": "en",
+                    "key": "name",
+                    "value": "this is test merchant"
+                }
+            ],
+            "address": null,
+            "accepted_order_types": [
+                "pickup",
+                "delivery"
+            ],
+            "status": true,
+            "merchant_id": "62f3b1e7814f917c7b01be72",
+            "images": {
+                "cover": {
+                    "image_url": null,
+                    "image_thumb_url": null
+                },
+                "logo": {
+                    "image_url": null,
+                    "image_thumb_url": null
+                }
+            },
+            "merchant_categories": [],
+            "name": "this is test merchant",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "62f77467af63f767e2008332",
+            "phone": "+91 98765 43210",
+            "language_translation": [
+                {
+                    "locale": "en",
+                    "key": "name",
+                    "value": "Eggie"
+                }
+            ],
+            "address": "hjdskfk",
+            "accepted_order_types": [
+                "delivery",
+                "pickup"
+            ],
+            "status": true,
+            "merchant_id": "62f77467af63f767e2008332",
+            "images": {
+                "cover": {
+                    "image_url": null,
+                    "image_thumb_url": null
+                },
+                "logo": {
+                    "image_url": null,
+                    "image_thumb_url": null
+                }
+            },
+            "merchant_categories": [],
+            "name": "Eggie",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "6310d41fc4bd6299f7037d32",
+            "phone": null,
+            "language_translation": [
+                {
+                    "locale": "en",
+                    "key": "name",
+                    "value": "test merchant"
+                }
+            ],
+            "address": null,
+            "accepted_order_types": [
+                "pickup",
+                "delivery"
+            ],
+            "status": false,
+            "merchant_id": "6310d41fc4bd6299f7037d32",
+            "images": {
+                "cover": {
+                    "image_url": null,
+                    "image_thumb_url": null
+                },
+                "logo": {
+                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/b2155063-b4c6-4e3d-a730-2c6bc1f1b629.png",
+                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-b2155063-b4c6-4e3d-a730-2c6bc1f1b629.png"
+                }
+            },
+            "merchant_categories": [],
+            "name": "test merchant",
+            "language_translate_columns": [
+                "name"
+            ]
+        }
+    ],
+    "service": "merchant",
+    "status_code": 200
+}
