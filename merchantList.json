@@ -2,149 +2,6 @@
     "success": true,
     "data": [
         {
-            "_id": "6107870b3a133b51517fb1af",
-            "tenant_id": 1003,
-            "phone": "+91 123456789",
-            "email": "royal@gmail.com",
-            "address": "Hazratganj,opp Saharaganj Mall Lucknow UP 226001",
-            "post_code": null,
-            "city": "Lucknow",
-            "state": null,
-            "country": "India",
-            "country_code": "IN",
-            "owner_name": null,
-            "owner_phone": null,
-            "accepted_order_types": [
-                "pickup",
-                "delivery"
-            ],
-            "merchant_package_id": "6103e93d3a133b51517fb1a5",
-            "merchant_category_ids": [],
-            "status": false,
-            "slug": "royal-cafe-hazratganj",
-            "merchant_id": "6107870b3a133b51517fb1af",
-            "delivery_location_type": "radius",
-            "delivery_radius": 20000,
-            "delivery_radius_meters": 20000000,
-            "delivery_radius_unit": "km",
-            "merchant_location": {
-                "type": "Point",
-                "coordinates": [
-                    80.9417724609375,
-                    26.868180902512403
-                ]
-            },
-            "group_ids": [
-                43
-            ],
-            "images": {
-                "cover": {
-                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/d1287b0a-a848-4e62-8c14-c1a864e7c235.jpeg",
-                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/d1287b0a-a848-4e62-8c14-c1a864e7c235.jpeg"
-                },
-                "logo": {
-                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/89268da5-7010-4642-9cd1-98b89f3924cb.png",
-                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-89268da5-7010-4642-9cd1-98b89f3924cb.png"
-                }
-            },
-            "is_sponsored": null,
-            "sponsored_expiration": null,
-            "sponsored_rank": null,
-            "sponsored_text": null,
-            "is_featured": true,
-            "featured_rank": 7,
-            "delivery_amount": 5,
-            "min_order_amount": 1,
-            "average_rating": 4,
-            "is_accepting_orders": true,
-            "is_open": true,
-            "comment": "Opening today at 16:10",
-            "delivery_by": "merchant",
-            "commission": null,
-            "language_translation": [
-                {
-                    "key": "name",
-                    "locale": "en",
-                    "value": "Royal Cafe (Hazratganj)"
-                }
-            ],
-            "merchant_categories": [],
-            "name": "Royal Cafe (Hazratganj)",
-            "language_translate_columns": [
-                "name"
-            ]
-        },
-        {
-            "_id": "61078c33d3d2db2c2525c07f",
-            "tenant_id": 1003,
-            "phone": "2",
-            "email": "A@GMAIL.COM",
-            "address": "SAHNKER CHAURAHA",
-            "post_code": null,
-            "city": "Lucknow",
-            "state": "UP",
-            "country": "India",
-            "country_code": "IN",
-            "owner_name": null,
-            "owner_phone": null,
-            "accepted_order_types": [
-                "pickup",
-                "delivery"
-            ],
-            "merchant_package_id": "6103e93d3a133b51517fb1a5",
-            "merchant_category_ids": [],
-            "status": false,
-            "slug": "aadab-e-dastarkhwan",
-            "merchant_id": "61078c33d3d2db2c2525c07f",
-            "delivery_location_type": "radius",
-            "delivery_radius": 654567,
-            "delivery_radius_meters": 1053423474.048,
-            "delivery_radius_unit": "mi",
-            "merchant_location": {
-                "type": "Point",
-                "coordinates": [
-                    80.94616599999999,
-                    26.8466937
-                ]
-            },
-            "is_sponsored": null,
-            "sponsored_expiration": null,
-            "sponsored_rank": null,
-            "sponsored_text": null,
-            "images": {
-                "cover": {
-                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/341981e3-eb52-46c3-aa45-16624abac740.jpeg",
-                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/341981e3-eb52-46c3-aa45-16624abac740.jpeg"
-                },
-                "logo": {
-                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/a5e955b3-c4e7-4535-b0c8-d82d92c096d1.png",
-                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-a5e955b3-c4e7-4535-b0c8-d82d92c096d1.png"
-                }
-            },
-            "is_featured": null,
-            "featured_rank": 0,
-            "min_order_amount": 1,
-            "delivery_amount": 1,
-            "average_rating": 3.3,
-            "is_accepting_orders": true,
-            "is_open": true,
-            "comment": "Opening next on Monday at 08:00",
-            "delivery_by": "tenant",
-            "commission": null,
-            "language_translation": [
-                {
-                    "key": "name",
-                    "locale": "en",
-                    "value": "Aadab-e-Dastarkhwan"
-                }
-            ],
-            "merchant_categories": [],
-            "name": "Aadab-e-Dastarkhwan",
-            "language_translate_columns": [
-                "name"
-            ]
-        },
-        {
             "_id": "61078da80dd978000e718b9a",
             "tenant_id": 1003,
             "phone": "3",
@@ -158,19 +15,20 @@
             "owner_name": null,
             "owner_phone": null,
             "accepted_order_types": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "merchant_package_id": "6103e93d3a133b51517fb1a5",
             "merchant_category_ids": [
-                "6103f2063b31a128b1098747"
+                "6103f2063b31a128b1098747",
+                "6429fd32492daa7682021213"
             ],
             "status": true,
             "slug": "johns-burgers",
             "merchant_id": "61078da80dd978000e718b9a",
             "delivery_location_type": "radius",
-            "delivery_radius": 5435,
-            "delivery_radius_meters": 8746784.64,
+            "delivery_radius": 6000,
+            "delivery_radius_meters": 9656064,
             "delivery_radius_unit": "mi",
             "merchant_location": {
                 "type": "Point",
@@ -187,20 +45,20 @@
             "sponsored_text": null,
             "images": {
                 "logo": {
-                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/files/f575f31b-57fe-467d-b67f-64b3a1bdd1bfFrame%202%20%281%29.svg",
+                    "image_url": "https://cdn-upload.hyperzod.dev/public/1003/files/e8697d6b-4385-47fd-bcee-dd969250662df575f31b-57fe-467d-b67f-64b3a1bdd1bfFrame%202%20%281%29.svg",
                     "image_thumb_url": null
                 },
                 "cover": {
-                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/a3aff48b-59e0-4636-9613-252a7fc54017.jpeg",
-                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/a3aff48b-59e0-4636-9613-252a7fc54017.jpeg"
+                    "image_url": "https://cdn-upload.hyperzod.dev/public/1003/images/4dc61ecb-a361-408f-90ef-e20a68ec4255.jpeg",
+                    "image_thumb_url": "https://cdn-upload.hyperzod.dev/public/1003/images/thumb-4dc61ecb-a361-408f-90ef-e20a68ec4255.jpeg"
                 }
             },
             "average_rating": 4.1,
             "min_order_amount": 0,
-            "delivery_amount": 0,
+            "delivery_amount": 6,
             "is_accepting_orders": true,
             "is_open": true,
-            "comment": "Opening next on Monday at 00:00",
+            "comment": "{opening_next} {on} Thursday {at} 00:00",
             "delivery_by": "tenant",
             "commission": null,
             "language_translation": [
@@ -220,7 +78,55 @@
                     "value": "مترو الانفاق (باتراكار بورام)"
                 }
             ],
-            "merchant_categories": [],
+            "merchant_address_location": [
+                28.6139391,
+                77.2090212
+            ],
+            "updated_at": "2023-05-10T12:22:12.516000Z",
+            "scheduling_setting": {
+                "enable": true,
+                "is_forced_enabled": false,
+                "days_from": 0,
+                "days_to": 10,
+                "hours_from_current_time": 6,
+                "hours_from_merchant_opening_time": 2,
+                "hours_from_merchant_closing_time": 2,
+                "slot_span": 30
+            },
+            "delivery_setting": {
+                "default_type": "fixed",
+                "delivery_tax_enabled": true,
+                "delivery_tax_percent": 6,
+                "types": {
+                    "slabs": {
+                        "unit": "mi",
+                        "slabs": [
+                            {
+                                "distance_from": 0,
+                                "distance_to": 1,
+                                "fee": 1,
+                                "time": "1"
+                            }
+                        ]
+                    },
+                    "fixed": {
+                        "amount": 6,
+                        "time": "30 mins"
+                    }
+                }
+            },
+            "merchant_categories": [
+                {
+                    "_id": "6103f2063b31a128b1098747",
+                    "name": "Pet food",
+                    "id": "6103f2063b31a128b1098747"
+                },
+                {
+                    "_id": "6429fd32492daa7682021213",
+                    "name": "chai",
+                    "id": "6429fd32492daa7682021213"
+                }
+            ],
             "name": "John's Burgers",
             "language_translate_columns": [
                 "name"
@@ -229,14 +135,14 @@
         {
             "_id": "61078e3a50c42d69ca71cbea",
             "tenant_id": 1003,
-            "phone": null,
-            "email": null,
-            "address": "Kaiserbagh chauraha Lucknow UP 226018",
-            "post_code": null,
+            "phone": "+44 7557 454485",
+            "email": "twef@gmail.com",
+            "address": "Leicester Square, London",
+            "post_code": "WC2H 7LU",
             "city": "Lucknow",
             "state": "UP",
-            "country": "India",
-            "country_code": "IN",
+            "country": "United Kingdom",
+            "country_code": "GB",
             "owner_name": null,
             "owner_phone": null,
             "accepted_order_types": [
@@ -245,44 +151,45 @@
             ],
             "merchant_package_id": "6103e93d3a133b51517fb1a5",
             "merchant_category_ids": [
-                "610d1b08e7c7f15b43004825"
+                "610d1b08e7c7f15b43004825",
+                "6429fd32492daa7682021213"
             ],
-            "status": false,
+            "status": true,
             "slug": "ashwini-lassi",
             "merchant_id": "61078e3a50c42d69ca71cbea",
             "delivery_location_type": "radius",
-            "delivery_radius": 637944,
-            "delivery_radius_meters": 637944000,
+            "delivery_radius": 20000,
+            "delivery_radius_meters": 20000000,
             "delivery_radius_unit": "km",
             "merchant_location": {
                 "type": "Point",
                 "coordinates": [
-                    80.96365019999999,
-                    26.8941773
+                    -0.1300524,
+                    51.5100045
                 ]
             },
             "featured_rank": 3,
-            "is_featured": null,
+            "is_featured": true,
             "images": {
                 "logo": {
-                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/a7bc1c1a-47c6-428b-b65d-e9c66b37523a.webp",
-                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-a7bc1c1a-47c6-428b-b65d-e9c66b37523a.webp"
+                    "image_url": null,
+                    "image_thumb_url": null
                 },
                 "cover": {
-                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/49fac08b-ec71-449d-a495-358bbe68009a.webp",
-                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-49fac08b-ec71-449d-a495-358bbe68009a.webp"
+                    "image_url": null,
+                    "image_thumb_url": null
                 }
             },
-            "is_sponsored": null,
-            "sponsored_expiration": null,
+            "is_sponsored": true,
+            "sponsored_expiration": "2023-03-30 00:00:00",
             "sponsored_text": null,
-            "sponsored_rank": null,
+            "sponsored_rank": 10,
             "min_order_amount": 1,
-            "delivery_amount": 10,
+            "delivery_amount": 0,
             "average_rating": 5,
-            "is_accepting_orders": false,
+            "is_accepting_orders": true,
             "is_open": true,
-            "comment": "Opening next on Monday at 09:00",
+            "comment": "{opening_next} {on} Thursday {at} 09:00",
             "delivery_by": "tenant",
             "commission": null,
             "language_translation": [
@@ -292,7 +199,55 @@
                     "value": "Ashwini Lassi"
                 }
             ],
-            "merchant_categories": [],
+            "merchant_address_location": [
+                51.5100045,
+                -0.1300524
+            ],
+            "delivery_setting": {
+                "default_type": "slabs",
+                "delivery_tax_enabled": true,
+                "delivery_tax_percent": 0,
+                "types": {
+                    "slabs": {
+                        "unit": "mi",
+                        "slabs": [
+                            {
+                                "distance_from": 0,
+                                "distance_to": 1,
+                                "fee": 0,
+                                "time": "sdfsdf"
+                            }
+                        ]
+                    },
+                    "fixed": {
+                        "amount": 0,
+                        "time": 54
+                    }
+                }
+            },
+            "scheduling_setting": {
+                "enable": true,
+                "is_forced_enabled": true,
+                "days_from": 0,
+                "days_to": 10,
+                "hours_from_current_time": 2,
+                "hours_from_merchant_opening_time": 0,
+                "hours_from_merchant_closing_time": 0,
+                "slot_span": 60
+            },
+            "updated_at": "2023-05-18T07:42:10.776000Z",
+            "merchant_categories": [
+                {
+                    "_id": "610d1b08e7c7f15b43004825",
+                    "name": "flower",
+                    "id": "610d1b08e7c7f15b43004825"
+                },
+                {
+                    "_id": "6429fd32492daa7682021213",
+                    "name": "chai",
+                    "id": "6429fd32492daa7682021213"
+                }
+            ],
             "name": "Ashwini Lassi",
             "language_translate_columns": [
                 "name"
@@ -335,25 +290,25 @@
             },
             "images": {
                 "logo": {
-                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/files/c55b6696-50f1-4335-9550-fbb83debbfbaFrame%201440.svg",
+                    "image_url": "https://cdn-upload.hyperzod.dev/public/1003/files/8115c900-0488-4771-a6c2-aa5d8e01776ec55b6696-50f1-4335-9550-fbb83debbfbaFrame%201440.svg",
                     "image_thumb_url": null
                 },
                 "cover": {
-                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/8fe18d8f-ab1b-4e45-83fa-d3e250f9030b.jpeg",
-                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/8fe18d8f-ab1b-4e45-83fa-d3e250f9030b.jpeg"
+                    "image_url": "https://cdn-upload.hyperzod.dev/public/1003/images/bd4fa4f6-d3a2-4145-ad99-260fc6cbfe38.jpeg",
+                    "image_thumb_url": "https://cdn-upload.hyperzod.dev/public/1003/images/thumb-bd4fa4f6-d3a2-4145-ad99-260fc6cbfe38.jpeg"
                 }
             },
             "min_order_amount": 3,
-            "delivery_amount": 0,
-            "is_sponsored": true,
-            "sponsored_expiration": "2022-12-23 00:00:00",
+            "delivery_amount": 10,
+            "is_sponsored": null,
+            "sponsored_expiration": null,
             "sponsored_text": null,
-            "sponsored_rank": 0,
+            "sponsored_rank": null,
             "is_featured": null,
             "featured_rank": 0,
             "is_accepting_orders": true,
             "is_open": true,
-            "comment": "Opening next on Monday at 00:00",
+            "comment": "{opening_next} {on} Thursday {at} 00:00",
             "average_rating": 2.8,
             "delivery_by": "tenant",
             "commission": null,
@@ -364,11 +319,47 @@
                     "value": "Teddy's ice cream"
                 }
             ],
-            "merchant_categories": [],
+            "merchant_address_location": [
+                26.8466937,
+                80.94616599999999
+            ],
+            "delivery_setting": {
+                "default_type": "slabs",
+                "delivery_tax_enabled": 0,
+                "delivery_tax_percent": 1,
+                "types": {
+                    "slabs": {
+                        "unit": "mi",
+                        "slabs": [
+                            {
+                                "distance_from": 0,
+                                "distance_to": 10,
+                                "fee": 10,
+                                "time": 15
+                            }
+                        ]
+                    },
+                    "fixed": {
+                        "amount": 10
+                    }
+                }
+            },
+            "updated_at": "2023-05-03T18:31:10.557000Z",
+            "merchant_categories": [
+                {
+                    "_id": "610d1e313636080f2210a7e4",
+                    "name": "Pastry",
+                    "id": "610d1e313636080f2210a7e4"
+                }
+            ],
             "name": "Teddy's ice cream",
             "language_translate_columns": [
                 "name"
-            ]
+            ],
+            "scheduling_setting": {
+                "enable": false,
+                "is_forced_enabled": false
+            }
         },
         {
             "_id": "610d347a4fd1f46dc00b5fb8",
@@ -390,16 +381,15 @@
             "merchant_package_id": "6103e93d3a133b51517fb1a5",
             "group_ids": [],
             "merchant_category_ids": [
-                "6103f0dbd7a2857a8d46787d",
-                "610504207af3fd1f786c04c6",
-                "610d2050efb56117fd5b0886"
+                "610d2050efb56117fd5b0886",
+                "6429fd32492daa7682021213"
             ],
             "status": true,
             "slug": "mughlai-zaiqa-lalbagh",
             "merchant_id": "610d347a4fd1f46dc00b5fb8",
             "delivery_location_type": "radius",
-            "delivery_radius": 637943,
-            "delivery_radius_meters": 637943000,
+            "delivery_radius": 20000,
+            "delivery_radius_meters": 20000000,
             "delivery_radius_unit": "km",
             "merchant_location": {
                 "type": "Point",
@@ -410,12 +400,12 @@
             },
             "images": {
                 "logo": {
-                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/e4246ba0-e1a0-4e5b-a4d3-906de146070e.jpeg",
-                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-e4246ba0-e1a0-4e5b-a4d3-906de146070e.jpeg"
+                    "image_url": "https://cdn-upload.hyperzod.dev/public/1003/images/3db1275f-3c14-4395-b653-00e1c8fde992.jpeg",
+                    "image_thumb_url": "https://cdn-upload.hyperzod.dev/public/1003/images/thumb-3db1275f-3c14-4395-b653-00e1c8fde992.jpeg"
                 },
                 "cover": {
-                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1/images/1100ac0c-4bd4-41ec-998b-d1af6102907a.jpeg",
-                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1/images/1100ac0c-4bd4-41ec-998b-d1af6102907a.jpeg"
+                    "image_url": "https://cdn-upload.hyperzod.dev/public/1003/images/6cbf6cec-0b83-4a6e-acc4-26caa1fa8b7c.jpeg",
+                    "image_thumb_url": "https://cdn-upload.hyperzod.dev/public/1003/images/thumb-6cbf6cec-0b83-4a6e-acc4-26caa1fa8b7c.jpeg"
                 }
             },
             "is_sponsored": null,
@@ -429,7 +419,7 @@
             "average_rating": 5,
             "is_accepting_orders": true,
             "is_open": true,
-            "comment": "Opening next on Monday at 09:00",
+            "comment": "{opening_next} {on} Thursday {at} 11:00",
             "delivery_by": "tenant",
             "commission": null,
             "language_translation": [
@@ -439,18 +429,38 @@
                     "value": "Mughlai Zaiqa (Lalbagh)"
                 }
             ],
-            "merchant_categories": [],
+            "merchant_address_location": [
+                26.8466937,
+                80.94616599999999
+            ],
+            "updated_at": "2023-05-10T12:23:05.795000Z",
+            "merchant_categories": [
+                {
+                    "_id": "610d2050efb56117fd5b0886",
+                    "name": "ice cream",
+                    "id": "610d2050efb56117fd5b0886"
+                },
+                {
+                    "_id": "6429fd32492daa7682021213",
+                    "name": "chai",
+                    "id": "6429fd32492daa7682021213"
+                }
+            ],
             "name": "Mughlai Zaiqa (Lalbagh)",
             "language_translate_columns": [
                 "name"
-            ]
+            ],
+            "scheduling_setting": {
+                "enable": false,
+                "is_forced_enabled": false
+            }
         },
         {
             "_id": "610d37793e86906e60296368",
             "tenant_id": 1003,
-            "phone": "+91 81153 42928",
+            "phone": "+91 85546 75475",
             "email": "A@GMAIL.COM",
-            "address": "SAHNKER CHAURAHA",
+            "address": "24 Street Williamsburg, New York",
             "post_code": null,
             "city": "Lucknow",
             "state": "UP",
@@ -465,59 +475,73 @@
             "merchant_package_id": "6103e93d3a133b51517fb1a5",
             "group_ids": [],
             "merchant_category_ids": [
-                "6103ff653a133b51517fb1a6",
                 "610d1e313636080f2210a7e4"
             ],
             "status": true,
-            "slug": "toms-bakery",
+            "slug": "teddys-ice-cream",
             "merchant_id": "610d37793e86906e60296368",
             "delivery_location_type": "radius",
-            "delivery_radius": 20000,
-            "delivery_radius_meters": 20000000,
-            "delivery_radius_unit": "km",
+            "delivery_radius": 2000,
+            "delivery_radius_meters": 3218688,
+            "delivery_radius_unit": "mi",
             "merchant_location": {
                 "type": "Point",
                 "coordinates": [
-                    80.9631981,
-                    26.8880166
+                    80.33256024550779,
+                    26.4450047333693
                 ]
             },
             "images": {
                 "logo": {
-                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/files/f54e3276-d864-41b4-bfc6-177f8e33a3d8Frame%201445.svg",
+                    "image_url": null,
                     "image_thumb_url": null
                 },
                 "cover": {
-                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/5b64c9b9-967f-4dbc-9006-85abfc4da2b9.jpeg",
-                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/5b64c9b9-967f-4dbc-9006-85abfc4da2b9.jpeg"
+                    "image_url": "https://cdn-upload.hyperzod.dev/public/1003/images/bcd12550-f43c-4e07-a80d-ba3e8ad9b7f5.png",
+                    "image_thumb_url": "https://cdn-upload.hyperzod.dev/public/1003/images/thumb-bcd12550-f43c-4e07-a80d-ba3e8ad9b7f5.png"
                 }
             },
             "is_featured": null,
             "featured_rank": 1,
             "min_order_amount": 0,
-            "delivery_amount": 15,
-            "is_accepting_orders": false,
+            "delivery_amount": 9,
+            "is_accepting_orders": true,
             "is_open": true,
-            "comment": "Opening next on Monday at 00:00",
-            "average_rating": 4.5,
+            "comment": "{opening_next} {on} Thursday {at} 10:00",
+            "average_rating": 4.6,
             "delivery_by": "tenant",
             "commission": null,
             "language_translation": [
                 {
                     "key": "name",
                     "locale": "en",
-                    "value": "Tom's Bakery"
+                    "value": "Teddy's Ice Cream"
                 }
             ],
             "is_sponsored": null,
             "sponsored_expiration": null,
             "sponsored_text": null,
             "sponsored_rank": null,
-            "merchant_categories": [],
-            "name": "Tom's Bakery",
+            "merchant_address_location": [
+                26.4450047333693,
+                80.33256024550779
+            ],
+            "updated_at": "2023-05-04T04:30:01.772000Z",
+            "merchant_categories": [
+                {
+                    "_id": "610d1e313636080f2210a7e4",
+                    "name": "Pastry",
+                    "id": "610d1e313636080f2210a7e4"
+                }
+            ],
+            "name": "Teddy's Ice Cream",
             "language_translate_columns": [
                 "name"
-            ]
+            ],
+            "scheduling_setting": {
+                "enable": false,
+                "is_forced_enabled": false
+            }
         },
         {
             "_id": "610d393fad2ff360645571f6",
@@ -538,10 +562,8 @@
             ],
             "merchant_package_id": "6103e93d3a133b51517fb1a5",
             "group_ids": [],
-            "merchant_category_ids": [
-                "6103ff653a133b51517fb1a6"
-            ],
-            "status": false,
+            "merchant_category_ids": [],
+            "status": true,
             "slug": "red-dragon-chopstix",
             "merchant_id": "610d393fad2ff360645571f6",
             "delivery_location_type": "radius",
@@ -557,12 +579,12 @@
             },
             "images": {
                 "logo": {
-                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/files/3011211d-d839-4763-81f3-2d04d62b217bGroup%204491.svg",
+                    "image_url": "https://cdn-upload.hyperzod.dev/public/1003/files/39d85f62-c976-4e9b-9ae4-bf313d9873143011211d-d839-4763-81f3-2d04d62b217bGroup%204491.svg",
                     "image_thumb_url": null
                 },
                 "cover": {
-                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/5da98a0a-9de8-42e4-8545-3fd2f66d2711.jpeg",
-                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/5da98a0a-9de8-42e4-8545-3fd2f66d2711.jpeg"
+                    "image_url": "https://cdn-upload.hyperzod.dev/public/1003/images/df8bf789-2179-489d-baa0-81a528b9c5cf.jpeg",
+                    "image_thumb_url": "https://cdn-upload.hyperzod.dev/public/1003/images/thumb-df8bf789-2179-489d-baa0-81a528b9c5cf.jpeg"
                 }
             },
             "is_featured": null,
@@ -572,7 +594,7 @@
             "average_rating": 3,
             "is_accepting_orders": true,
             "is_open": true,
-            "comment": "Opening next on Monday at 00:00",
+            "comment": "{opening_next} {on} Thursday {at} 00:00",
             "delivery_by": "tenant",
             "commission": null,
             "is_sponsored": null,
@@ -586,87 +608,20 @@
                     "value": "Red Dragon | Chopstix"
                 }
             ],
+            "merchant_address_location": [
+                26.8466937,
+                80.94616599999999
+            ],
+            "updated_at": "2023-05-03T18:31:07.262000Z",
             "merchant_categories": [],
             "name": "Red Dragon | Chopstix",
             "language_translate_columns": [
                 "name"
-            ]
-        },
-        {
-            "_id": "610d3b57a9bf5b555c571168",
-            "tenant_id": 1003,
-            "phone": "3",
-            "email": "A@GMAIL.COM",
-            "address": "SAHNKER CHAURAHA",
-            "post_code": null,
-            "city": "Lucknow",
-            "state": "UP",
-            "country": "India",
-            "country_code": "IN",
-            "owner_name": null,
-            "owner_phone": null,
-            "accepted_order_types": [
-                "delivery",
-                "pickup"
             ],
-            "merchant_package_id": "6103e93d3a133b51517fb1a5",
-            "group_ids": [],
-            "merchant_category_ids": [
-                "6103f0dbd7a2857a8d46787d",
-                "6103f2063b31a128b1098747",
-                "610504207af3fd1f786c04c6",
-                "610d2050efb56117fd5b0886"
-            ],
-            "status": false,
-            "slug": "tunday-kababi-aliganj",
-            "merchant_id": "610d3b57a9bf5b555c571168",
-            "delivery_location_type": "radius",
-            "delivery_radius": 637934,
-            "delivery_radius_meters": 637934000,
-            "delivery_radius_unit": "km",
-            "merchant_location": {
-                "type": "Point",
-                "coordinates": [
-                    80.94616599999999,
-                    26.8466937
-                ]
-            },
-            "images": {
-                "logo": {
-                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/caea4fb2-3565-4204-92c2-c692b077032a.png",
-                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/caea4fb2-3565-4204-92c2-c692b077032a.png"
-                },
-                "cover": {
-                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/98e49283-10de-4bd1-b9b7-38c6781bbf24.webp",
-                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-98e49283-10de-4bd1-b9b7-38c6781bbf24.webp"
-                }
-            },
-            "is_sponsored": null,
-            "sponsored_expiration": null,
-            "sponsored_rank": null,
-            "sponsored_text": null,
-            "is_featured": null,
-            "featured_rank": 2,
-            "min_order_amount": 0,
-            "delivery_amount": 10,
-            "is_accepting_orders": true,
-            "is_open": true,
-            "comment": "Opening next on Monday at 09:00",
-            "delivery_by": "tenant",
-            "average_rating": 3,
-            "commission": null,
-            "language_translation": [
-                {
-                    "key": "name",
-                    "locale": "en",
-                    "value": "Tunday Kababi (Aliganj)"
-                }
-            ],
-            "merchant_categories": [],
-            "name": "Tunday Kababi (Aliganj)",
-            "language_translate_columns": [
-                "name"
-            ]
+            "scheduling_setting": {
+                "enable": false,
+                "is_forced_enabled": false
+            }
         },
         {
             "_id": "610d3d4e5259b571d72c32f7",
@@ -695,12 +650,12 @@
             "merchant_id": "610d3d4e5259b571d72c32f7",
             "images": {
                 "logo": {
-                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/9866be54-a4e2-4320-b7ac-d8abe32bed7a.jpeg",
-                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-9866be54-a4e2-4320-b7ac-d8abe32bed7a.jpeg"
+                    "image_url": "https://cdn-upload.hyperzod.dev/public/1003/images/155f982e-3702-4141-b0bc-eb760c139161.jpeg",
+                    "image_thumb_url": "https://cdn-upload.hyperzod.dev/public/1003/images/thumb-155f982e-3702-4141-b0bc-eb760c139161.jpeg"
                 },
                 "cover": {
-                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/d3f81750-ef11-4727-aad7-89f6a33a2c19.webp",
-                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-d3f81750-ef11-4727-aad7-89f6a33a2c19.webp"
+                    "image_url": "https://cdn-upload.hyperzod.dev/public/1003/images/5d61ddb3-7a17-4526-b3cd-c6a6ab86f8ca.webp",
+                    "image_thumb_url": "https://cdn-upload.hyperzod.dev/public/1003/images/thumb-5d61ddb3-7a17-4526-b3cd-c6a6ab86f8ca.webp"
                 }
             },
             "delivery_location_type": "radius",
@@ -710,15 +665,15 @@
             "merchant_location": {
                 "type": "Point",
                 "coordinates": [
-                    80.94616599999999,
-                    26.8466937
+                    80.92839904748533,
+                    26.853049635949702
                 ]
             },
             "min_order_amount": 0,
             "delivery_amount": 10,
             "is_accepting_orders": true,
             "is_open": true,
-            "comment": "Opening next on Monday at 12:00",
+            "comment": "{opening_next} {on} Thursday {at} 06:00",
             "average_rating": 5,
             "delivery_by": "tenant",
             "commission": null,
@@ -729,11 +684,26 @@
                     "value": "Muradabadi Biryani"
                 }
             ],
-            "merchant_categories": [],
+            "merchant_address_location": [
+                26.853049635949702,
+                80.92839904748533
+            ],
+            "updated_at": "2023-05-04T00:30:01.126000Z",
+            "merchant_categories": [
+                {
+                    "_id": "6103f2063b31a128b1098747",
+                    "name": "Pet food",
+                    "id": "6103f2063b31a128b1098747"
+                }
+            ],
             "name": "Muradabadi Biryani",
             "language_translate_columns": [
                 "name"
-            ]
+            ],
+            "scheduling_setting": {
+                "enable": false,
+                "is_forced_enabled": false
+            }
         },
         {
             "_id": "6142d7ebb65c2f700827234c",
@@ -749,21 +719,23 @@
             "owner_name": null,
             "owner_phone": null,
             "accepted_order_types": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "merchant_package_id": "6103e93d3a133b51517fb1a5",
             "group_ids": [
                 50
             ],
-            "merchant_category_ids": [],
+            "merchant_category_ids": [
+                "6429fd32492daa7682021213"
+            ],
             "status": true,
             "slug": "donalds",
             "merchant_id": "6142d7ebb65c2f700827234c",
             "delivery_location_type": "radius",
-            "delivery_radius": 63793,
-            "delivery_radius_meters": 63793000,
-            "delivery_radius_unit": "km",
+            "delivery_radius": 12430,
+            "delivery_radius_meters": 20004145.92,
+            "delivery_radius_unit": "mi",
             "merchant_location": {
                 "type": "Point",
                 "coordinates": [
@@ -773,12 +745,12 @@
             },
             "images": {
                 "logo": {
-                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/files/1eb91646-a732-4231-9603-18590eafc53fFrame%201443.svg",
-                    "image_thumb_url": null
+                    "image_url": "https://cdn-upload.hyperzod.dev/public/1003/files/3a930386-e2d9-414b-8f0f-66a5743081eb1eb91646-a732-4231-9603-18590eafc53fFrame%201443.svg",
+                    "image_thumb_url": "https://cdn-upload.hyperzod.dev/public/1003/files/3a930386-e2d9-414b-8f0f-66a5743081eb1eb91646-a732-4231-9603-18590eafc53fFrame%201443.svg"
                 },
                 "cover": {
-                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/04c92e80-e512-41e7-bd54-aa270c5e37c7.png",
-                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/04c92e80-e512-41e7-bd54-aa270c5e37c7.png"
+                    "image_url": "https://cdn-upload.hyperzod.dev/public/1003/images/ba30785f-0eb2-4d53-8c99-d226dd65aaf5.png",
+                    "image_thumb_url": "https://cdn-upload.hyperzod.dev/public/1003/images/thumb-ba30785f-0eb2-4d53-8c99-d226dd65aaf5.png"
                 }
             },
             "is_featured": true,
@@ -792,8 +764,8 @@
             "sponsored_text": null,
             "sponsored_rank": null,
             "is_open": true,
-            "comment": "Opening next on Monday at 00:00",
-            "delivery_by": "merchant",
+            "comment": "{opening_next} {on} Thursday {at} 00:00",
+            "delivery_by": "tenant",
             "commission": null,
             "language_translation": [
                 {
@@ -802,7 +774,49 @@
                     "value": "Donald's"
                 }
             ],
-            "merchant_categories": [],
+            "merchant_address_location": [
+                26.8466937,
+                80.94616599999999
+            ],
+            "scheduling_setting": {
+                "enable": true,
+                "is_forced_enabled": true,
+                "days_from": 0,
+                "days_to": 2,
+                "hours_from_current_time": 2,
+                "hours_from_merchant_opening_time": 2,
+                "hours_from_merchant_closing_time": 2
+            },
+            "delivery_setting": {
+                "default_type": "fixed",
+                "delivery_tax_enabled": true,
+                "delivery_tax_percent": 1,
+                "types": {
+                    "slabs": {
+                        "unit": "mi",
+                        "slabs": [
+                            {
+                                "distance_from": 0,
+                                "distance_to": 1,
+                                "fee": 0,
+                                "time": "0"
+                            }
+                        ]
+                    },
+                    "fixed": {
+                        "amount": 1,
+                        "time": "30 mins"
+                    }
+                }
+            },
+            "updated_at": "2023-05-10T12:19:47.315000Z",
+            "merchant_categories": [
+                {
+                    "_id": "6429fd32492daa7682021213",
+                    "name": "chai",
+                    "id": "6429fd32492daa7682021213"
+                }
+            ],
             "name": "Donald's",
             "language_translate_columns": [
                 "name"
@@ -830,10 +844,11 @@
                 7
             ],
             "merchant_category_ids": [
-                "61050417cc77567df453ff4a"
+                "61050417cc77567df453ff4a",
+                "6429fd32492daa7682021213"
             ],
             "status": true,
-            "average_rating": 3.8,
+            "average_rating": 4,
             "slug": "kcf",
             "merchant_id": "61695724be6f163d1264ad45",
             "delivery_location_type": "radius",
@@ -843,17 +858,17 @@
             "merchant_location": {
                 "type": "Point",
                 "coordinates": [
-                    80.95391459999999,
-                    26.8827401
+                    80.94616599999999,
+                    26.8466937
                 ]
             },
             "images": {
                 "cover": {
-                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/c3047c3b-3958-49f5-9319-8a974027abd9.jpeg",
-                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/c3047c3b-3958-49f5-9319-8a974027abd9.jpeg"
+                    "image_url": "https://cdn-upload.hyperzod.dev/public/1003/images/91afa967-da64-4de1-a8e3-c2ee0d9404e7.jpeg",
+                    "image_thumb_url": "https://cdn-upload.hyperzod.dev/public/1003/images/thumb-91afa967-da64-4de1-a8e3-c2ee0d9404e7.jpeg"
                 },
                 "logo": {
-                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/files/9b6986b3-548a-4dc0-917f-81a6a34e6206Frame%201446.svg",
+                    "image_url": "https://cdn-upload.hyperzod.dev/public/1003/files/fdfb4fbb-92e9-4b47-9eaa-c42008226d7c9b6986b3-548a-4dc0-917f-81a6a34e6206Frame%201446.svg",
                     "image_thumb_url": null
                 }
             },
@@ -862,13 +877,13 @@
             "sponsored_text": null,
             "sponsored_rank": null,
             "min_order_amount": 0,
-            "delivery_amount": 1,
+            "delivery_amount": 13,
             "is_featured": null,
             "featured_rank": 1,
             "is_accepting_orders": true,
             "is_open": true,
-            "comment": "Opening next on Monday at 00:00",
-            "delivery_by": "merchant",
+            "comment": "{opening_next} {on} Thursday {at} 00:00",
+            "delivery_by": "tenant",
             "commission": null,
             "language_translation": [
                 {
@@ -877,11 +892,31 @@
                     "value": "KCF"
                 }
             ],
-            "merchant_categories": [],
+            "merchant_address_location": [
+                26.8466937,
+                80.94616599999999
+            ],
+            "updated_at": "2023-05-10T12:22:29.679000Z",
+            "merchant_categories": [
+                {
+                    "_id": "61050417cc77567df453ff4a",
+                    "name": "pharmcy",
+                    "id": "61050417cc77567df453ff4a"
+                },
+                {
+                    "_id": "6429fd32492daa7682021213",
+                    "name": "chai",
+                    "id": "6429fd32492daa7682021213"
+                }
+            ],
             "name": "KCF",
             "language_translate_columns": [
                 "name"
-            ]
+            ],
+            "scheduling_setting": {
+                "enable": false,
+                "is_forced_enabled": false
+            }
         },
         {
             "_id": "61695cba3a45d5522b040117",
@@ -912,8 +947,8 @@
             "slug": "the-milkshake-hub",
             "merchant_id": "61695cba3a45d5522b040117",
             "delivery_location_type": "radius",
-            "delivery_radius": 63794,
-            "delivery_radius_meters": 63794000,
+            "delivery_radius": 20000,
+            "delivery_radius_meters": 20000000,
             "delivery_radius_unit": "km",
             "merchant_location": {
                 "type": "Point",
@@ -924,12 +959,12 @@
             },
             "images": {
                 "logo": {
-                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/files/d70aa287-c532-4417-97d3-88692b5fc4b6Frame%201439.svg",
+                    "image_url": "https://cdn-upload.hyperzod.dev/public/1003/files/18b235fb-95f9-4bc7-ba5f-3b9ca088d724d70aa287-c532-4417-97d3-88692b5fc4b6Frame%201439.svg",
                     "image_thumb_url": null
                 },
                 "cover": {
-                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/bb72a159-f6af-40a6-b640-814f58f90cef.jpeg",
-                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/bb72a159-f6af-40a6-b640-814f58f90cef.jpeg"
+                    "image_url": "https://cdn-upload.hyperzod.dev/public/1003/images/71fefdbe-de14-46c4-aaac-b38cfa3bc503.jpeg",
+                    "image_thumb_url": "https://cdn-upload.hyperzod.dev/public/1003/images/thumb-71fefdbe-de14-46c4-aaac-b38cfa3bc503.jpeg"
                 }
             },
             "min_order_amount": 1,
@@ -940,7 +975,7 @@
             "sponsored_expiration": null,
             "sponsored_text": null,
             "sponsored_rank": null,
-            "comment": "Opening next on Monday at 00:00",
+            "comment": "{opening_next} {on} Thursday {at} 00:00",
             "is_featured": true,
             "featured_rank": 0,
             "delivery_by": "tenant",
@@ -952,11 +987,26 @@
                     "value": "THE MILKSHAKE HUB"
                 }
             ],
-            "merchant_categories": [],
+            "merchant_address_location": [
+                26.8466937,
+                80.94616599999999
+            ],
+            "updated_at": "2023-05-03T18:31:07.279000Z",
+            "merchant_categories": [
+                {
+                    "_id": "610d1b08e7c7f15b43004825",
+                    "name": "flower",
+                    "id": "610d1b08e7c7f15b43004825"
+                }
+            ],
             "name": "THE MILKSHAKE HUB",
             "language_translate_columns": [
                 "name"
-            ]
+            ],
+            "scheduling_setting": {
+                "enable": false,
+                "is_forced_enabled": false
+            }
         },
         {
             "_id": "61696478fea6940d227483be",
@@ -980,16 +1030,16 @@
                 11
             ],
             "merchant_category_ids": [
-                "610504207af3fd1f786c04c6"
+                "6429fd32492daa7682021213"
             ],
             "status": true,
             "average_rating": 4,
             "slug": "wrap-roll",
             "merchant_id": "61696478fea6940d227483be",
             "delivery_location_type": "radius",
-            "delivery_radius": 63783,
-            "delivery_radius_meters": 102648788.352,
-            "delivery_radius_unit": "mi",
+            "delivery_radius": 20000,
+            "delivery_radius_meters": 20000000,
+            "delivery_radius_unit": "km",
             "merchant_location": {
                 "type": "Point",
                 "coordinates": [
@@ -999,12 +1049,12 @@
             },
             "images": {
                 "cover": {
-                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/f6f7b4cb-3055-4ad6-bf81-ef22ce2fc575.jpeg",
-                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/f6f7b4cb-3055-4ad6-bf81-ef22ce2fc575.jpeg"
+                    "image_url": "https://cdn-upload.hyperzod.dev/public/1003/images/a5dc5428-1180-42b8-87f5-246a04d7819a.jpeg",
+                    "image_thumb_url": "https://cdn-upload.hyperzod.dev/public/1003/images/a5dc5428-1180-42b8-87f5-246a04d7819a.jpeg"
                 },
                 "logo": {
-                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/files/5cc3a99f-37ef-4034-be58-c8cdf275a11aFrame%201441.svg",
-                    "image_thumb_url": null
+                    "image_url": "https://cdn-upload.hyperzod.dev/public/1003/images/edbd5946-a9e3-4a9c-b8bc-db9ca2196f45.jpeg",
+                    "image_thumb_url": "https://cdn-upload.hyperzod.dev/public/1003/images/thumb-edbd5946-a9e3-4a9c-b8bc-db9ca2196f45.jpeg"
                 }
             },
             "is_featured": true,
@@ -1013,7 +1063,7 @@
             "delivery_amount": 5,
             "is_accepting_orders": true,
             "is_open": true,
-            "comment": "Opening next on Monday at 09:01",
+            "comment": "{opening_next} {on} Thursday {at} 06:00",
             "delivery_by": "tenant",
             "commission": null,
             "language_translation": [
@@ -1023,7 +1073,50 @@
                     "value": "Wrap & Roll"
                 }
             ],
-            "merchant_categories": [],
+            "merchant_address_location": [
+                26.8466937,
+                80.94616599999999
+            ],
+            "delivery_setting": {
+                "default_type": "fixed",
+                "delivery_tax_enabled": 1,
+                "delivery_tax_percent": 4,
+                "types": {
+                    "slabs": {
+                        "unit": "mi",
+                        "slabs": [
+                            {
+                                "distance_from": 0,
+                                "distance_to": 1,
+                                "fee": 1,
+                                "time": "7"
+                            }
+                        ]
+                    },
+                    "fixed": {
+                        "amount": 5,
+                        "time": "30 mins"
+                    }
+                }
+            },
+            "scheduling_setting": {
+                "enable": true,
+                "is_forced_enabled": false,
+                "days_from": 0,
+                "days_to": 4,
+                "hours_from_current_time": 3,
+                "hours_from_merchant_opening_time": 2,
+                "hours_from_merchant_closing_time": 2,
+                "slot_span": 60
+            },
+            "updated_at": "2023-05-10T12:23:16.701000Z",
+            "merchant_categories": [
+                {
+                    "_id": "6429fd32492daa7682021213",
+                    "name": "chai",
+                    "id": "6429fd32492daa7682021213"
+                }
+            ],
             "name": "Wrap & Roll",
             "language_translate_columns": [
                 "name"
@@ -1056,8 +1149,8 @@
             "slug": "peterss-pizza",
             "merchant_id": "61696a822ce2c761ba1d80a9",
             "delivery_location_type": "radius",
-            "delivery_radius": 60003434,
-            "delivery_radius_meters": 60003434000,
+            "delivery_radius": 20000,
+            "delivery_radius_meters": 20000000,
             "delivery_radius_unit": "km",
             "merchant_location": {
                 "type": "Point",
@@ -1068,11 +1161,11 @@
             },
             "images": {
                 "cover": {
-                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/d951171c-0e5e-44b9-a59c-cb9de71a0f20.jpeg",
-                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/d951171c-0e5e-44b9-a59c-cb9de71a0f20.jpeg"
+                    "image_url": "https://cdn-upload.hyperzod.dev/public/1003/images/c8642dfc-391f-4aa7-b647-77428d02e1ed.jpeg",
+                    "image_thumb_url": "https://cdn-upload.hyperzod.dev/public/1003/images/thumb-c8642dfc-391f-4aa7-b647-77428d02e1ed.jpeg"
                 },
                 "logo": {
-                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/files/cd3da1b6-4e2a-4b73-b09a-cfd3e171ce11Frame%201442.svg",
+                    "image_url": "https://cdn-upload.hyperzod.dev/public/1003/files/e6d45023-ec54-4ffc-a08c-370ffc9b846ccd3da1b6-4e2a-4b73-b09a-cfd3e171ce11Frame%201442.svg",
                     "image_thumb_url": null
                 }
             },
@@ -1082,7 +1175,7 @@
             "delivery_amount": 1,
             "is_accepting_orders": true,
             "is_open": true,
-            "comment": "Opening next on Monday at 00:00",
+            "comment": "{opening_next} {on} Thursday {at} 00:00",
             "delivery_by": "tenant",
             "commission": null,
             "language_translation": [
@@ -1096,80 +1189,20 @@
             "sponsored_expiration": null,
             "sponsored_text": null,
             "sponsored_rank": null,
+            "merchant_address_location": [
+                26.8466937,
+                80.94616599999999
+            ],
+            "updated_at": "2023-05-03T18:30:09.794000Z",
             "merchant_categories": [],
             "name": "Peters's Pizza",
             "language_translate_columns": [
                 "name"
-            ]
-        },
-        {
-            "_id": "616989f83a45d5522b04011a",
-            "tenant_id": 1003,
-            "phone": "453534534",
-            "email": "A@GMAIL.COM",
-            "address": "SAHNKER CHAURAHA",
-            "post_code": null,
-            "city": null,
-            "state": "up",
-            "country": "India",
-            "country_code": "IN",
-            "owner_name": null,
-            "owner_phone": null,
-            "accepted_order_types": [
-                "pickup",
-                "delivery"
             ],
-            "merchant_package_id": "6103e93d3a133b51517fb1a5",
-            "group_ids": [
-                7
-            ],
-            "merchant_category_ids": [
-                "610d1bca4fd1f46dc00b5fb6"
-            ],
-            "status": false,
-            "average_rating": 2.8,
-            "slug": "neelkanth-sweets",
-            "merchant_id": "616989f83a45d5522b04011a",
-            "delivery_location_type": "radius",
-            "delivery_radius": 6237,
-            "delivery_radius_meters": 6237000,
-            "delivery_radius_unit": "km",
-            "merchant_location": {
-                "type": "Point",
-                "coordinates": [
-                    80.94616599999999,
-                    26.8466937
-                ]
-            },
-            "images": {
-                "cover": {
-                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/b870225c-cf63-4f29-941e-5db191e30301.jpeg",
-                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-b870225c-cf63-4f29-941e-5db191e30301.jpeg"
-                },
-                "logo": {
-                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/29923c52-60a7-4abf-840c-0940e355d358.jpeg",
-                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-29923c52-60a7-4abf-840c-0940e355d358.jpeg"
-                }
-            },
-            "min_order_amount": 1,
-            "delivery_amount": 10,
-            "is_accepting_orders": true,
-            "is_open": true,
-            "comment": "Opening next on Monday at 11:00",
-            "delivery_by": "tenant",
-            "commission": null,
-            "language_translation": [
-                {
-                    "key": "name",
-                    "locale": "en",
-                    "value": "Neelkanth Sweets"
-                }
-            ],
-            "merchant_categories": [],
-            "name": "Neelkanth Sweets",
-            "language_translate_columns": [
-                "name"
-            ]
+            "scheduling_setting": {
+                "enable": false,
+                "is_forced_enabled": false
+            }
         },
         {
             "_id": "616d3e4a25385c608d08cb88",
@@ -1191,15 +1224,18 @@
             "group_ids": [
                 6
             ],
-            "merchant_category_ids": [],
-            "status": false,
+            "merchant_category_ids": [
+                "610d1b08e7c7f15b43004825",
+                "6429fd32492daa7682021213"
+            ],
+            "status": true,
             "average_rating": 5,
             "slug": "azhar-bhai-ka-paan",
             "merchant_id": "616d3e4a25385c608d08cb88",
             "delivery_location_type": "radius",
-            "delivery_radius": 63784,
-            "delivery_radius_meters": 102650397.69600001,
-            "delivery_radius_unit": "mi",
+            "delivery_radius": 20000,
+            "delivery_radius_meters": 20000000,
+            "delivery_radius_unit": "km",
             "merchant_location": {
                 "type": "Point",
                 "coordinates": [
@@ -1209,21 +1245,21 @@
             },
             "images": {
                 "logo": {
-                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/4b9b2556-7d88-4942-bcbe-f2c3e040402c.jpeg",
-                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-4b9b2556-7d88-4942-bcbe-f2c3e040402c.jpeg"
+                    "image_url": "https://cdn-upload.hyperzod.dev/public/1003/images/a64265dc-9ff3-43a6-84d9-bc19a782596e.jpeg",
+                    "image_thumb_url": "https://cdn-upload.hyperzod.dev/public/1003/images/a64265dc-9ff3-43a6-84d9-bc19a782596e.jpeg"
                 },
                 "cover": {
-                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/41bbb8ad-3857-46b2-9233-2c1084017eab.jpeg",
-                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-41bbb8ad-3857-46b2-9233-2c1084017eab.jpeg"
+                    "image_url": "https://cdn-upload.hyperzod.dev/public/1003/images/8ef5b542-35d3-4cc1-9eea-1d199da88301.jpeg",
+                    "image_thumb_url": "https://cdn-upload.hyperzod.dev/public/1003/images/thumb-8ef5b542-35d3-4cc1-9eea-1d199da88301.jpeg"
                 }
             },
             "min_order_amount": 0,
-            "delivery_amount": 11,
-            "is_featured": null,
+            "delivery_amount": 3,
+            "is_featured": true,
             "featured_rank": 1,
             "is_accepting_orders": true,
             "is_open": true,
-            "comment": "Opening next on Monday at 09:00",
+            "comment": "{opening_next} {on} Thursday {at} 09:00",
             "delivery_by": "tenant",
             "commission": null,
             "language_translation": [
@@ -1233,7 +1269,67 @@
                     "value": "Azhar Bhai Ka Paan"
                 }
             ],
-            "merchant_categories": [],
+            "merchant_address_location": [
+                26.8466937,
+                80.94616599999999
+            ],
+            "updated_at": "2023-05-15T11:14:47.901000Z",
+            "scheduling_setting": {
+                "enable": false,
+                "is_forced_enabled": false,
+                "days_from": 0,
+                "days_to": 0,
+                "hours_from_current_time": 0,
+                "hours_from_merchant_opening_time": 0,
+                "hours_from_merchant_closing_time": 0,
+                "slot_span": 30,
+                "is_slot_booking_enabled": 0,
+                "max_orders_per_slot": 4
+            },
+            "delivery_setting": {
+                "default_type": "slabs",
+                "delivery_tax_enabled": true,
+                "delivery_tax_percent": 0,
+                "types": {
+                    "slabs": {
+                        "unit": "mi",
+                        "slabs": [
+                            {
+                                "distance_from": 0,
+                                "distance_to": 3,
+                                "fee": 3,
+                                "time": "10 min"
+                            },
+                            {
+                                "distance_from": 3,
+                                "distance_to": 6,
+                                "fee": 5,
+                                "time": "15 min"
+                            }
+                        ]
+                    },
+                    "fixed": {
+                        "amount": 0,
+                        "time": "30 mins"
+                    },
+                    "none": {
+                        "time": "30 mins"
+                    }
+                },
+                "show_delivery_time": false
+            },
+            "merchant_categories": [
+                {
+                    "_id": "610d1b08e7c7f15b43004825",
+                    "name": "flower",
+                    "id": "610d1b08e7c7f15b43004825"
+                },
+                {
+                    "_id": "6429fd32492daa7682021213",
+                    "name": "chai",
+                    "id": "6429fd32492daa7682021213"
+                }
+            ],
             "name": "Azhar Bhai Ka Paan",
             "language_translate_columns": [
                 "name"
@@ -1261,18 +1357,18 @@
                 7
             ],
             "merchant_category_ids": [
-                "610d1bca4fd1f46dc00b5fb6"
+                "6429fd32492daa7682021213"
             ],
-            "status": false,
+            "status": true,
             "delivery_amount": 10,
             "min_order_amount": 0,
             "average_rating": 4.5,
             "slug": "dosa-planet",
             "merchant_id": "617d2aa127a56917e928ca33",
             "delivery_location_type": "radius",
-            "delivery_radius": 98763,
-            "delivery_radius_meters": 158943641.472,
-            "delivery_radius_unit": "mi",
+            "delivery_radius": 20000,
+            "delivery_radius_meters": 20000000,
+            "delivery_radius_unit": "km",
             "merchant_location": {
                 "type": "Point",
                 "coordinates": [
@@ -1282,19 +1378,19 @@
             },
             "images": {
                 "logo": {
-                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/ac677216-c8ac-42e4-ab8f-2679f748a6c6.jpeg",
-                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-ac677216-c8ac-42e4-ab8f-2679f748a6c6.jpeg"
+                    "image_url": "https://cdn-upload.hyperzod.dev/public/1003/images/71241dd5-0eb0-4f7e-8f15-91ffa779868b.jpeg",
+                    "image_thumb_url": "https://cdn-upload.hyperzod.dev/public/1003/images/thumb-71241dd5-0eb0-4f7e-8f15-91ffa779868b.jpeg"
                 },
                 "cover": {
-                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/cf041479-3590-4b8a-bef4-18909b748da8.webp",
-                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-cf041479-3590-4b8a-bef4-18909b748da8.webp"
+                    "image_url": "https://cdn-upload.hyperzod.dev/public/1003/images/98be532d-9b5e-4ff5-b310-8e2d72c96727.webp",
+                    "image_thumb_url": "https://cdn-upload.hyperzod.dev/public/1003/images/thumb-98be532d-9b5e-4ff5-b310-8e2d72c96727.webp"
                 }
             },
             "is_featured": null,
             "featured_rank": 0,
             "is_accepting_orders": true,
             "is_open": true,
-            "comment": "Opening next on Monday at 11:00",
+            "comment": "{opening_next} {on} Thursday {at} 11:00",
             "delivery_by": "tenant",
             "commission": null,
             "language_translation": [
@@ -1304,11 +1400,26 @@
                     "value": "Dosa Planet"
                 }
             ],
-            "merchant_categories": [],
+            "merchant_address_location": [
+                26.8466937,
+                80.94616599999999
+            ],
+            "updated_at": "2023-05-10T12:20:07.847000Z",
+            "merchant_categories": [
+                {
+                    "_id": "6429fd32492daa7682021213",
+                    "name": "chai",
+                    "id": "6429fd32492daa7682021213"
+                }
+            ],
             "name": "Dosa Planet",
             "language_translate_columns": [
                 "name"
-            ]
+            ],
+            "scheduling_setting": {
+                "enable": false,
+                "is_forced_enabled": false
+            }
         },
         {
             "_id": "617d303511c8966aa00a5fc8",
@@ -1332,7 +1443,7 @@
                 7
             ],
             "merchant_category_ids": [
-                "610504207af3fd1f786c04c6"
+                "6429fd32492daa7682021213"
             ],
             "status": true,
             "delivery_amount": 10,
@@ -1341,9 +1452,9 @@
             "slug": "hellas-chicken",
             "merchant_id": "617d303511c8966aa00a5fc8",
             "delivery_location_type": "radius",
-            "delivery_radius": 62372,
-            "delivery_radius_meters": 100378003.96800001,
-            "delivery_radius_unit": "mi",
+            "delivery_radius": 20000,
+            "delivery_radius_meters": 20000000,
+            "delivery_radius_unit": "km",
             "merchant_location": {
                 "type": "Point",
                 "coordinates": [
@@ -1353,12 +1464,12 @@
             },
             "images": {
                 "logo": {
-                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/files/fd441e2e-6929-4cd8-9101-08d0b25298c2Frame%201441%202.svg",
-                    "image_thumb_url": null
+                    "image_url": "https://cdn-upload.hyperzod.dev/public/1003/files/102c7554-9acb-4374-8b0a-656559d090ecfd441e2e-6929-4cd8-9101-08d0b25298c2Frame%201441%202.svg",
+                    "image_thumb_url": "https://cdn-upload.hyperzod.dev/public/1003/files/102c7554-9acb-4374-8b0a-656559d090ecfd441e2e-6929-4cd8-9101-08d0b25298c2Frame%201441%202.svg"
                 },
                 "cover": {
-                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1/images/012d5117-a597-4d35-8b35-4f28f4a74d65.jpeg",
-                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1/images/012d5117-a597-4d35-8b35-4f28f4a74d65.jpeg"
+                    "image_url": "https://cdn-upload.hyperzod.dev/public/1003/images/fe20f937-39b6-4561-be95-072156656665.jpeg",
+                    "image_thumb_url": "https://cdn-upload.hyperzod.dev/public/1003/images/thumb-fe20f937-39b6-4561-be95-072156656665.jpeg"
                 }
             },
             "is_sponsored": null,
@@ -1369,7 +1480,7 @@
             "featured_rank": 4,
             "is_accepting_orders": true,
             "is_open": true,
-            "comment": "Opening next on Monday at 00:00",
+            "comment": "{opening_next} {on} Thursday {at} 00:00",
             "delivery_by": "tenant",
             "commission": null,
             "language_translation": [
@@ -1379,11 +1490,26 @@
                     "value": "Hella's Chicken"
                 }
             ],
-            "merchant_categories": [],
+            "merchant_address_location": [
+                26.8466937,
+                80.94616599999999
+            ],
+            "updated_at": "2023-05-10T12:21:57.358000Z",
+            "merchant_categories": [
+                {
+                    "_id": "6429fd32492daa7682021213",
+                    "name": "chai",
+                    "id": "6429fd32492daa7682021213"
+                }
+            ],
             "name": "Hella's Chicken",
             "language_translate_columns": [
                 "name"
-            ]
+            ],
+            "scheduling_setting": {
+                "enable": false,
+                "is_forced_enabled": false
+            }
         },
         {
             "_id": "618b77d490a021698c10d527",
@@ -1399,7 +1525,7 @@
                 7
             ],
             "merchant_category_ids": [
-                "610d19d03e86906e60296364"
+                "6429fd32492daa7682021213"
             ],
             "status": true,
             "delivery_amount": 0,
@@ -1408,8 +1534,8 @@
             "slug": "online-kaka-nature",
             "merchant_id": "618b77d490a021698c10d527",
             "delivery_location_type": "radius",
-            "delivery_radius": 637823,
-            "delivery_radius_meters": 637823000,
+            "delivery_radius": 20000,
+            "delivery_radius_meters": 20000000,
             "delivery_radius_unit": "km",
             "merchant_location": {
                 "type": "Point",
@@ -1420,19 +1546,19 @@
             },
             "images": {
                 "logo": {
-                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/fcdbdefd-034b-4091-afcc-0ca57a902c37.webp",
-                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-fcdbdefd-034b-4091-afcc-0ca57a902c37.webp"
+                    "image_url": "https://cdn-upload.hyperzod.dev/public/1003/images/5ca03e10-cdd8-4e0b-ad40-778980c5f667.webp",
+                    "image_thumb_url": "https://cdn-upload.hyperzod.dev/public/1003/images/thumb-5ca03e10-cdd8-4e0b-ad40-778980c5f667.webp"
                 },
                 "cover": {
-                    "image_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/73612bc1-a8e2-42b3-8a5d-a183d0a98b64.jpeg",
-                    "image_thumb_url": "https://s3.ap-south-1.amazonaws.com/uploads.hyperzod.dev/public/1003/images/thumb-73612bc1-a8e2-42b3-8a5d-a183d0a98b64.jpeg"
+                    "image_url": "https://cdn-upload.hyperzod.dev/public/1003/images/0782f2c5-3168-4aad-bbc2-7ba8ff41b7b8.jpeg",
+                    "image_thumb_url": "https://cdn-upload.hyperzod.dev/public/1003/images/thumb-0782f2c5-3168-4aad-bbc2-7ba8ff41b7b8.jpeg"
                 }
             },
             "is_featured": true,
             "featured_rank": 5,
             "is_accepting_orders": true,
             "is_open": true,
-            "comment": "Opening next on Monday at 11:00",
+            "comment": "{opening_next} {on} Thursday {at} 11:00",
             "delivery_by": "tenant",
             "commission": null,
             "language_translation": [
@@ -1442,8 +1568,477 @@
                     "value": "Online kaka Nature"
                 }
             ],
-            "merchant_categories": [],
+            "merchant_address_location": [
+                26.8466937,
+                80.94616599999999
+            ],
+            "updated_at": "2023-05-10T12:22:54.575000Z",
+            "is_sponsored": null,
+            "sponsored_expiration": null,
+            "sponsored_rank": null,
+            "sponsored_text": null,
+            "merchant_categories": [
+                {
+                    "_id": "6429fd32492daa7682021213",
+                    "name": "chai",
+                    "id": "6429fd32492daa7682021213"
+                }
+            ],
             "name": "Online kaka Nature",
+            "language_translate_columns": [
+                "name"
+            ],
+            "scheduling_setting": {
+                "enable": false,
+                "is_forced_enabled": false
+            }
+        },
+        {
+            "_id": "61c96a1b94db0b6c236455c0",
+            "tenant_id": 1003,
+            "phone": "2322",
+            "email": "A@GMAIL.COM",
+            "address": "SAHNKER CHAURAHA",
+            "accepted_order_types": [
+                "delivery",
+                "pickup"
+            ],
+            "merchant_package_id": null,
+            "group_ids": [
+                7
+            ],
+            "merchant_category_ids": [
+                "610d1e313636080f2210a7e4",
+                "62a44a3e7ca0a8b78201e837"
+            ],
+            "status": true,
+            "delivery_amount": 0,
+            "min_order_amount": 0,
+            "average_rating": 3.4,
+            "is_accepting_orders": true,
+            "is_open": true,
+            "slug": "kings-burger",
+            "merchant_id": "61c96a1b94db0b6c236455c0",
+            "delivery_location_type": "radius",
+            "delivery_radius": 20000,
+            "delivery_radius_meters": 20000000,
+            "delivery_radius_unit": "km",
+            "merchant_location": {
+                "type": "Point",
+                "coordinates": [
+                    80.94616599999999,
+                    26.8466937
+                ]
+            },
+            "images": {
+                "logo": {
+                    "image_url": "https://cdn-upload.hyperzod.dev/public/1003/files/8cced38e-ce95-4295-935b-219af266bc2bc9714960-3942-41d7-8357-053817928cf0Frame%201444.svg",
+                    "image_thumb_url": null
+                },
+                "cover": {
+                    "image_url": "https://cdn-upload.hyperzod.dev/public/1003/images/0b87e22c-0f1b-44b0-917b-da0b0b21aa92.jpeg",
+                    "image_thumb_url": "https://cdn-upload.hyperzod.dev/public/1003/images/thumb-0b87e22c-0f1b-44b0-917b-da0b0b21aa92.jpeg"
+                }
+            },
+            "is_sponsored": null,
+            "sponsored_expiration": null,
+            "sponsored_text": null,
+            "sponsored_rank": null,
+            "is_featured": true,
+            "featured_rank": 0,
+            "delivery_by": "merchant",
+            "comment": "{opening_next} {on} Thursday {at} 00:00",
+            "commission": null,
+            "language_translation": [
+                {
+                    "key": "name",
+                    "locale": "en",
+                    "value": "King's Burger"
+                }
+            ],
+            "merchant_address_location": [
+                26.8466937,
+                80.94616599999999
+            ],
+            "updated_at": "2023-05-03T18:31:07.118000Z",
+            "merchant_categories": [
+                {
+                    "_id": "610d1e313636080f2210a7e4",
+                    "name": "Pastry",
+                    "id": "610d1e313636080f2210a7e4"
+                }
+            ],
+            "name": "King's Burger",
+            "language_translate_columns": [
+                "name"
+            ],
+            "scheduling_setting": {
+                "enable": false,
+                "is_forced_enabled": false
+            }
+        },
+        {
+            "_id": "61d44e5ab1b75061822a3b72",
+            "tenant_id": 1003,
+            "phone": "+91 4324 234 234",
+            "email": "A@GMAIL.COM",
+            "address": "india",
+            "accepted_order_types": [
+                "delivery",
+                "pickup"
+            ],
+            "merchant_package_id": null,
+            "group_ids": [
+                7
+            ],
+            "merchant_category_ids": [
+                "6429fd32492daa7682021213"
+            ],
+            "status": true,
+            "delivery_amount": 0,
+            "min_order_amount": 0,
+            "average_rating": 3,
+            "is_accepting_orders": true,
+            "is_open": true,
+            "slug": "bluestone-caffe",
+            "merchant_id": "61d44e5ab1b75061822a3b72",
+            "delivery_location_type": "radius",
+            "delivery_radius": 20,
+            "delivery_radius_meters": 32186.88,
+            "delivery_radius_unit": "mi",
+            "merchant_location": {
+                "type": "Point",
+                "coordinates": [
+                    80.94616599999999,
+                    26.8466937
+                ]
+            },
+            "images": {
+                "cover": {
+                    "image_url": null,
+                    "image_thumb_url": null
+                },
+                "logo": {
+                    "image_url": null,
+                    "image_thumb_url": null
+                }
+            },
+            "is_sponsored": null,
+            "sponsored_expiration": null,
+            "sponsored_text": null,
+            "sponsored_rank": null,
+            "comment": "{opening_next} {on} Thursday {at} 00:00",
+            "delivery_by": "merchant",
+            "commission": null,
+            "language_translation": [
+                {
+                    "key": "name",
+                    "locale": "en",
+                    "value": "Bluestone caffe"
+                }
+            ],
+            "is_featured": true,
+            "featured_rank": 0,
+            "merchant_address_location": [
+                26.8466937,
+                80.94616599999999
+            ],
+            "updated_at": "2023-05-10T12:17:13.690000Z",
+            "merchant_categories": [
+                {
+                    "_id": "6429fd32492daa7682021213",
+                    "name": "chai",
+                    "id": "6429fd32492daa7682021213"
+                }
+            ],
+            "name": "Bluestone caffe",
+            "language_translate_columns": [
+                "name"
+            ],
+            "scheduling_setting": {
+                "enable": false,
+                "is_forced_enabled": false
+            }
+        },
+        {
+            "_id": "61d6b51b17ab8614a72cd25b",
+            "tenant_id": 1003,
+            "phone": "+91 81748 66150",
+            "email": "shailu3597@gmail.com",
+            "address": "Leicester Square, London",
+            "accepted_order_types": [
+                "delivery",
+                "pickup",
+                "custom_1"
+            ],
+            "merchant_package_id": null,
+            "group_ids": [],
+            "merchant_category_ids": [
+                "6288bd5b7e5d8df0f10540b2",
+                "6429fd32492daa7682021213"
+            ],
+            "status": true,
+            "delivery_amount": 3,
+            "min_order_amount": 1,
+            "average_rating": 4.6,
+            "is_accepting_orders": true,
+            "is_open": true,
+            "slug": "7-eleven",
+            "merchant_id": "61d6b51b17ab8614a72cd25b",
+            "delivery_location_type": "radius",
+            "delivery_radius": 20000,
+            "delivery_radius_meters": 20000000,
+            "delivery_radius_unit": "km",
+            "merchant_location": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1300524,
+                    51.5100045
+                ]
+            },
+            "images": {
+                "logo": {
+                    "image_url": "https://cdn-upload.hyperzod.dev/public/1003/images/363c71bb-8cb4-4f09-a557-4ca4b34beee6.webp",
+                    "image_thumb_url": "https://cdn-upload.hyperzod.dev/public/1003/images/thumb-363c71bb-8cb4-4f09-a557-4ca4b34beee6.webp"
+                },
+                "cover": {
+                    "image_url": "https://cdn-upload.hyperzod.dev/public/1003/images/e07e79ef-84ce-4dca-b2c1-94e859bca9b0.webp",
+                    "image_thumb_url": "https://cdn-upload.hyperzod.dev/public/1003/images/e07e79ef-84ce-4dca-b2c1-94e859bca9b0.webp"
+                }
+            },
+            "is_featured": null,
+            "featured_rank": 0,
+            "is_sponsored": true,
+            "sponsored_expiration": "2023-05-31 00:00:00",
+            "sponsored_text": null,
+            "sponsored_rank": 0,
+            "delivery_by": "tenant",
+            "comment": "{opening_next} {on} Friday {at} 00:00",
+            "commission": null,
+            "language_translation": [
+                {
+                    "key": "name",
+                    "locale": "en",
+                    "value": "7 Eleven"
+                },
+                {
+                    "locale": "ru",
+                    "key": "name",
+                    "value": "sindhani"
+                },
+                {
+                    "locale": "hi",
+                    "key": "name",
+                    "value": "dsrf"
+                }
+            ],
+            "merchant_address_location": [
+                51.5100045,
+                -0.1300524
+            ],
+            "delivery_setting": {
+                "default_type": "slabs",
+                "delivery_tax_enabled": true,
+                "delivery_tax_percent": 0,
+                "types": {
+                    "slabs": {
+                        "unit": "km",
+                        "slabs": [
+                            {
+                                "distance_from": 0,
+                                "distance_to": 3,
+                                "fee": 3,
+                                "time": "0"
+                            },
+                            {
+                                "distance_from": 3,
+                                "distance_to": 5,
+                                "fee": 4,
+                                "time": "0"
+                            }
+                        ]
+                    },
+                    "fixed": {
+                        "amount": 10,
+                        "time": "15"
+                    },
+                    "none": {
+                        "time": "3 min"
+                    }
+                },
+                "show_delivery_time": true
+            },
+            "scheduling_setting": {
+                "enable": true,
+                "is_forced_enabled": false,
+                "days_from": 0,
+                "days_to": 4,
+                "hours_from_current_time": 3,
+                "hours_from_merchant_opening_time": 0,
+                "hours_from_merchant_closing_time": 0,
+                "slot_span": 15,
+                "is_slot_booking_enabled": 1,
+                "max_orders_per_slot": 1
+            },
+            "updated_at": "2023-05-18T18:30:08.615000Z",
+            "country": "United Kingdom",
+            "country_code": "GB",
+            "post_code": "WC2H 7LU",
+            "merchant_categories": [
+                {
+                    "_id": "6288bd5b7e5d8df0f10540b2",
+                    "name": "breakfast",
+                    "id": "6288bd5b7e5d8df0f10540b2"
+                },
+                {
+                    "_id": "6429fd32492daa7682021213",
+                    "name": "chai",
+                    "id": "6429fd32492daa7682021213"
+                }
+            ],
+            "name": "7 Eleven",
+            "language_translate_columns": [
+                "name"
+            ]
+        },
+        {
+            "_id": "62b1c315f54672795f038de2",
+            "tenant_id": 1003,
+            "phone": "+91 86013 25891",
+            "language_translation": [
+                {
+                    "locale": "en",
+                    "key": "name",
+                    "value": "Buck's cafe"
+                }
+            ],
+            "email": null,
+            "address": "Hazratganj",
+            "delivery_by": "merchant",
+            "accepted_order_types": [
+                "delivery",
+                "pickup",
+                "custom_1"
+            ],
+            "merchant_package_id": null,
+            "commission": null,
+            "group_ids": [],
+            "merchant_category_ids": [
+                "6429fd32492daa7682021213"
+            ],
+            "status": true,
+            "delivery_amount": 2,
+            "min_order_amount": 0,
+            "average_rating": 3.6,
+            "is_accepting_orders": true,
+            "is_open": true,
+            "merchant_id": "62b1c315f54672795f038de2",
+            "slug": "bucks-cafe",
+            "delivery_location_type": "geofencing",
+            "delivery_radius": 0,
+            "delivery_radius_meters": 0,
+            "delivery_radius_unit": null,
+            "merchant_location": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                80.94360204199371,
+                                26.881003716861557
+                            ],
+                            [
+                                80.95072598913727,
+                                26.889730817094964
+                            ],
+                            [
+                                80.96557469824371,
+                                26.885482181430827
+                            ],
+                            [
+                                80.96574635962067,
+                                26.879204625577387
+                            ],
+                            [
+                                80.95999570349274,
+                                26.87533839636212
+                            ],
+                            [
+                                80.94415994146881,
+                                26.87786485814725
+                            ],
+                            [
+                                80.94360204199371,
+                                26.881003716861557
+                            ]
+                        ]
+                    ]
+                ]
+            },
+            "images": {
+                "logo": {
+                    "image_url": "https://cdn-upload.hyperzod.dev/public/1003/files/b22d1a4f-0bda-4c45-8447-d6bd579361e66e3f1b56-2d3f-4247-b2b5-1b9cfaf34c2dFrame%201441%206.svg",
+                    "image_thumb_url": "https://cdn-upload.hyperzod.dev/public/1003/files/b22d1a4f-0bda-4c45-8447-d6bd579361e66e3f1b56-2d3f-4247-b2b5-1b9cfaf34c2dFrame%201441%206.svg"
+                },
+                "cover": {
+                    "image_url": "https://cdn-upload.hyperzod.dev/public/1003/images/fbdb7ebe-52c1-4f82-9b16-b9bd47901ddc.jpeg",
+                    "image_thumb_url": "https://cdn-upload.hyperzod.dev/public/1003/images/thumb-fbdb7ebe-52c1-4f82-9b16-b9bd47901ddc.jpeg"
+                }
+            },
+            "comment": "{opening_next} {on} Thursday {at} 00:00",
+            "is_featured": null,
+            "featured_rank": 0,
+            "is_sponsored": true,
+            "sponsored_expiration": "2023-02-27 00:00:00",
+            "sponsored_text": null,
+            "sponsored_rank": 9,
+            "country_code": "IN",
+            "merchant_address_location": [
+                26.8827401,
+                80.95391459999999
+            ],
+            "scheduling_setting": {
+                "enable": false,
+                "is_forced_enabled": false,
+                "days_from": 0,
+                "days_to": 3,
+                "hours_from_current_time": 2,
+                "hours_from_merchant_opening_time": 0,
+                "hours_from_merchant_closing_time": 0,
+                "slot_span": 30
+            },
+            "delivery_setting": {
+                "default_type": "fixed",
+                "delivery_tax_enabled": true,
+                "delivery_tax_percent": 2,
+                "types": {
+                    "slabs": {
+                        "unit": "mi",
+                        "slabs": [
+                            {
+                                "distance_from": 0.5,
+                                "distance_to": 2,
+                                "fee": 1,
+                                "time": "0"
+                            }
+                        ]
+                    },
+                    "fixed": {
+                        "amount": 2,
+                        "time": "23"
+                    }
+                }
+            },
+            "updated_at": "2023-05-10T12:17:32.669000Z",
+            "country": "India",
+            "merchant_categories": [
+                {
+                    "_id": "6429fd32492daa7682021213",
+                    "name": "chai",
+                    "id": "6429fd32492daa7682021213"
+                }
+            ],
+            "name": "Buck's cafe",
             "language_translate_columns": [
                 "name"
             ]
