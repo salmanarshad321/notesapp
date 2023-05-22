@@ -1,315 +1,321 @@
 {
-    "primaryPages": [
-        {
-            "id": 1,
-            "tenant_id": 1003,
-            "merchant_id": null,
-            "key": "HomePage",
-            "type": "HomePage",
-            "created_at": "2023-05-20T15:37:26.000000Z",
-            "updated_at": "2023-05-20T15:37:26.000000Z",
-            "sections": [
-                {
-                    "id": 1,
-                    "tenant_id": 1003,
-                    "user_page_id": 1,
-                    "key": "WelcomeBannerWithLiveLocation",
-                    "type": "WelcomeBannerWithLiveLocation",
-                    "created_at": "2023-05-20T15:37:26.000000Z",
-                    "updated_at": "2023-05-20T15:37:26.000000Z",
-                    "attributes": [
-                        {
-                            "value": "https://picsum.photos/756/500",
-                            "type": "Image",
-                            "key": "BannerImage"
-                        },
-                        {
-                            "value": "Welcome to Our Website!",
-                            "type": "Text",
-                            "key": "WelcomeText"
-                        },
-                        {
-                            "value": "Premium Delivery Service.",
-                            "type": "Text",
-                            "key": "SubText"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 2,
-            "tenant_id": 1003,
-            "merchant_id": null,
-            "key": "DiscoveryPage",
-            "type": "DiscoveryPage",
-            "created_at": "2023-05-20T15:37:26.000000Z",
-            "updated_at": "2023-05-20T15:37:26.000000Z",
-            "sections": [
-                {
-                    "id": 2,
-                    "tenant_id": 1003,
-                    "user_page_id": 2,
-                    "key": "ProductBanners",
-                    "type": "ProductBanners",
-                    "created_at": "2023-05-20T15:37:26.000000Z",
-                    "updated_at": "2023-05-20T15:37:26.000000Z",
-                    "attributes": [
-                        {
-                            "meta": {
-                                "orientation": "vertical"
+    "success": true,
+    "message": "Request successful",
+    "data": {
+        "primaryPages": [
+            {
+                "id": 1,
+                "tenant_id": 1003,
+                "merchant_id": null,
+                "key": "HomePage",
+                "type": "HomePage",
+                "created_at": "2023-05-20T15:37:26.000000Z",
+                "updated_at": "2023-05-20T15:37:26.000000Z",
+                "sections": [
+                    {
+                        "id": 1,
+                        "tenant_id": 1003,
+                        "user_page_id": 1,
+                        "key": "WelcomeBannerWithLiveLocation",
+                        "type": "WelcomeBannerWithLiveLocation",
+                        "created_at": "2023-05-20T15:37:26.000000Z",
+                        "updated_at": "2023-05-20T15:37:26.000000Z",
+                        "attributes": [
+                            {
+                                "value": "https:\/\/picsum.photos\/756\/500",
+                                "type": "Image",
+                                "key": "BannerImage"
                             },
-                            "type": "Image",
-                            "key": "Collection",
-                            "value": [
-                                {
-                                    "url": "https://images.pexels.com/photos/15851469/pexels-photo-15851469.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-                                    "status": "active",
-                                    "action_type": "none",
-                                    "action_value": "",
-                                    "banner_type": "image"
+                            {
+                                "value": "Welcome to Our Website!",
+                                "type": "Text",
+                                "key": "WelcomeText"
+                            },
+                            {
+                                "value": "Premium Delivery Service.",
+                                "type": "Text",
+                                "key": "SubText"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "tenant_id": 1003,
+                "merchant_id": null,
+                "key": "DiscoveryPage",
+                "type": "DiscoveryPage",
+                "created_at": "2023-05-20T15:37:26.000000Z",
+                "updated_at": "2023-05-20T15:37:26.000000Z",
+                "sections": [
+                    {
+                        "id": 2,
+                        "tenant_id": 1003,
+                        "user_page_id": 2,
+                        "key": "ProductBanners",
+                        "type": "ProductBanners",
+                        "created_at": "2023-05-20T15:37:26.000000Z",
+                        "updated_at": "2023-05-20T15:37:26.000000Z",
+                        "attributes": [
+                            {
+                                "meta": {
+                                    "orientation": "vertical"
                                 },
-                                {
-                                    "url": "https://images.pexels.com/photos/4271612/pexels-photo-4271612.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
-                                    "status": "active",
-                                    "action_type": "none",
-                                    "action_value": "",
-                                    "banner_type": "image"
-                                },
-                                {
-                                    "url": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1600",
-                                    "status": "active",
-                                    "action_type": "none",
-                                    "action_value": "",
-                                    "banner_type": "image"
-                                },
-                                {
-                                    "url": "https://images.pexels.com/photos/1640774/pexels-photo-1640774.jpeg?auto=compress&cs=tinysrgb&w=1600",
-                                    "status": "active",
-                                    "action_type": "none",
-                                    "action_value": "",
-                                    "banner_type": "image"
-                                },
-                                {
-                                    "url": "https://images.pexels.com/photos/2097090/pexels-photo-2097090.jpeg?auto=compress&cs=tinysrgb&w=1600",
-                                    "status": "active",
-                                    "action_type": "none",
-                                    "action_value": "",
-                                    "banner_type": "image"
-                                },
-                                {
-                                    "url": "https://images.pexels.com/photos/322207/pexels-photo-322207.jpeg?auto=compress&cs=tinysrgb&w=1600",
-                                    "status": "active",
-                                    "action_type": "none",
-                                    "action_value": "",
-                                    "banner_type": "image"
-                                },
-                                {
-                                    "url": "https://images.pexels.com/photos/1765005/pexels-photo-1765005.jpeg?auto=compress&cs=tinysrgb&w=1600",
-                                    "status": "active",
-                                    "action_type": "none",
-                                    "action_value": "",
-                                    "banner_type": "image"
-                                },
-                                {
-                                    "url": "https://images.pexels.com/photos/397913/pexels-photo-397913.jpeg?auto=compress&cs=tinysrgb&w=1600",
-                                    "status": "active",
-                                    "action_type": "none",
-                                    "action_value": "",
-                                    "banner_type": "image"
-                                },
-                                {
-                                    "url": "https://images.pexels.com/photos/2103949/pexels-photo-2103949.jpeg?auto=compress&cs=tinysrgb&w=1600",
-                                    "status": "active",
-                                    "action_type": "none",
-                                    "action_value": "",
-                                    "banner_type": "image"
-                                },
-                                {
-                                    "url": "https://images.pexels.com/photos/3338497/pexels-photo-3338497.jpeg?auto=compress&cs=tinysrgb&w=1600",
-                                    "status": "active",
-                                    "action_type": "none",
-                                    "action_value": "",
-                                    "banner_type": "image"
-                                },
-                                {
-                                    "url": "https://images.pexels.com/photos/541216/pexels-photo-541216.jpeg?auto=compress&cs=tinysrgb&w=1600",
-                                    "status": "active",
-                                    "action_type": "none",
-                                    "action_value": "",
-                                    "banner_type": "image"
-                                },
-                                {
-                                    "url": "https://images.pexels.com/photos/3186654/pexels-photo-3186654.jpeg?auto=compress&cs=tinysrgb&w=1600",
-                                    "status": "active",
-                                    "action_type": "none",
-                                    "action_value": "",
-                                    "banner_type": "image"
-                                },
-                                {
-                                    "url": "https://images.pexels.com/photos/323682/pexels-photo-323682.jpeg?auto=compress&cs=tinysrgb&w=1600",
-                                    "status": "active",
-                                    "action_type": "none",
-                                    "action_value": "",
-                                    "banner_type": "image"
-                                },
-                                {
-                                    "url": "https://images.pexels.com/photos/718742/pexels-photo-718742.jpeg?auto=compress&cs=tinysrgb&w=1600",
-                                    "status": "active",
-                                    "action_type": "none",
-                                    "action_value": "",
-                                    "banner_type": "image"
-                                },
-                                {
-                                    "url": "https://images.pexels.com/photos/2097090/pexels-photo-2097090.jpeg?auto=compress&cs=tinysrgb&w=1600",
-                                    "status": "active",
-                                    "action_type": "none",
-                                    "action_value": "",
-                                    "banner_type": "image"
-                                },
-                                {
-                                    "url": "https://images.pexels.com/photos/2562992/pexels-photo-2562992.png?auto=compress&cs=tinysrgb&w=1600",
-                                    "status": "active",
-                                    "action_type": "none",
-                                    "action_value": "",
-                                    "banner_type": "image"
-                                },
-                                {
-                                    "url": "https://images.pexels.com/photos/52518/jeans-pants-blue-shop-52518.jpeg?auto=compress&cs=tinysrgb&w=1600",
-                                    "status": "active",
-                                    "action_type": "none",
-                                    "action_value": "",
-                                    "banner_type": "image"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "id": 3,
-                    "tenant_id": 1003,
-                    "user_page_id": 2,
-                    "key": "ProductCategories",
-                    "type": "ProductCategories",
-                    "created_at": "2023-05-20T15:37:26.000000Z",
-                    "updated_at": "2023-05-20T15:37:26.000000Z",
-                    "attributes": [
-                        {
-                            "value": "Product Categories",
-                            "type": "Text",
-                            "key": "Title"
-                        }
-                    ]
-                },
-                {
-                    "id": 4,
-                    "tenant_id": 1003,
-                    "user_page_id": 2,
-                    "key": "FeaturedMerchants",
-                    "type": "FeaturedMerchants",
-                    "created_at": "2023-05-20T15:37:26.000000Z",
-                    "updated_at": "2023-05-20T15:37:26.000000Z",
-                    "attributes": [
-                        {
-                            "value": "Featured Merchants",
-                            "type": "Text",
-                            "key": "Title"
-                        }
-                    ]
-                },
-                {
-                    "id": 5,
-                    "tenant_id": 1003,
-                    "user_page_id": 2,
-                    "key": "NearbyMerchants",
-                    "type": "NearbyMerchants",
-                    "created_at": "2023-05-20T15:37:26.000000Z",
-                    "updated_at": "2023-05-20T15:37:26.000000Z",
-                    "attributes": [
-                        {
-                            "value": "Nearby Merchants",
-                            "type": "Text",
-                            "key": "Title"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 3,
-            "tenant_id": 1003,
-            "merchant_id": null,
-            "key": "MerchantHomePage",
-            "type": "MerchantHomePage",
-            "created_at": "2023-05-20T15:37:26.000000Z",
-            "updated_at": "2023-05-20T15:37:26.000000Z",
-            "sections": [
-                {
-                    "id": 6,
-                    "tenant_id": 1003,
-                    "user_page_id": 3,
-                    "key": "CoverWithProfilePicture",
-                    "type": "CoverWithProfilePicture",
-                    "created_at": "2023-05-20T15:37:26.000000Z",
-                    "updated_at": "2023-05-20T15:37:26.000000Z",
-                    "attributes": []
-                },
-                {
-                    "id": 7,
-                    "tenant_id": 1003,
-                    "user_page_id": 3,
-                    "key": "MerchantProducts",
-                    "type": "MerchantProducts",
-                    "created_at": "2023-05-20T15:37:26.000000Z",
-                    "updated_at": "2023-05-20T15:37:26.000000Z",
-                    "attributes": [
-                        {
-                            "value": [],
-                            "type": "Empty",
-                            "key": "MerchantProductsAttribute"
-                        }
-                    ]
-                }
-            ]
-        }
-    ],
-    "globalSections": [
-        {
-            "id": 9,
-            "tenant_id": 1003,
-            "user_page_id": null,
-            "key": "Header",
-            "type": "Header",
-            "created_at": "2023-05-20T15:37:26.000000Z",
-            "updated_at": "2023-05-20T15:37:26.000000Z",
-            "attributes": [
-                {
-                    "value": "Heading Text",
-                    "type": "Text",
-                    "key": "HeadingText"
-                },
-                {
-                    "value": "https://via.placeholder.com/150",
-                    "type": "Image",
-                    "key": "HeaderImage"
-                }
-            ]
-        },
-        {
-            "id": 10,
-            "tenant_id": 1003,
-            "user_page_id": null,
-            "key": "Footer",
-            "type": "Footer",
-            "created_at": "2023-05-20T15:37:26.000000Z",
-            "updated_at": "2023-05-20T15:37:26.000000Z",
-            "attributes": [
-                {
-                    "value": "Footer Text",
-                    "type": "Text",
-                    "key": "FooterText"
-                }
-            ]
-        }
-    ]
+                                "type": "Image",
+                                "key": "Collection",
+                                "value": [
+                                    {
+                                        "url": "https:\/\/images.pexels.com\/photos\/15851469\/pexels-photo-15851469.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                                        "status": "active",
+                                        "action_type": "none",
+                                        "action_value": "",
+                                        "banner_type": "image"
+                                    },
+                                    {
+                                        "url": "https:\/\/images.pexels.com\/photos\/4271612\/pexels-photo-4271612.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+                                        "status": "active",
+                                        "action_type": "none",
+                                        "action_value": "",
+                                        "banner_type": "image"
+                                    },
+                                    {
+                                        "url": "https:\/\/images.pexels.com\/photos\/376464\/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                                        "status": "active",
+                                        "action_type": "none",
+                                        "action_value": "",
+                                        "banner_type": "image"
+                                    },
+                                    {
+                                        "url": "https:\/\/images.pexels.com\/photos\/1640774\/pexels-photo-1640774.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                                        "status": "active",
+                                        "action_type": "none",
+                                        "action_value": "",
+                                        "banner_type": "image"
+                                    },
+                                    {
+                                        "url": "https:\/\/images.pexels.com\/photos\/2097090\/pexels-photo-2097090.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                                        "status": "active",
+                                        "action_type": "none",
+                                        "action_value": "",
+                                        "banner_type": "image"
+                                    },
+                                    {
+                                        "url": "https:\/\/images.pexels.com\/photos\/322207\/pexels-photo-322207.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                                        "status": "active",
+                                        "action_type": "none",
+                                        "action_value": "",
+                                        "banner_type": "image"
+                                    },
+                                    {
+                                        "url": "https:\/\/images.pexels.com\/photos\/1765005\/pexels-photo-1765005.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                                        "status": "active",
+                                        "action_type": "none",
+                                        "action_value": "",
+                                        "banner_type": "image"
+                                    },
+                                    {
+                                        "url": "https:\/\/images.pexels.com\/photos\/397913\/pexels-photo-397913.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                                        "status": "active",
+                                        "action_type": "none",
+                                        "action_value": "",
+                                        "banner_type": "image"
+                                    },
+                                    {
+                                        "url": "https:\/\/images.pexels.com\/photos\/2103949\/pexels-photo-2103949.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                                        "status": "active",
+                                        "action_type": "none",
+                                        "action_value": "",
+                                        "banner_type": "image"
+                                    },
+                                    {
+                                        "url": "https:\/\/images.pexels.com\/photos\/3338497\/pexels-photo-3338497.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                                        "status": "active",
+                                        "action_type": "none",
+                                        "action_value": "",
+                                        "banner_type": "image"
+                                    },
+                                    {
+                                        "url": "https:\/\/images.pexels.com\/photos\/541216\/pexels-photo-541216.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                                        "status": "active",
+                                        "action_type": "none",
+                                        "action_value": "",
+                                        "banner_type": "image"
+                                    },
+                                    {
+                                        "url": "https:\/\/images.pexels.com\/photos\/3186654\/pexels-photo-3186654.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                                        "status": "active",
+                                        "action_type": "none",
+                                        "action_value": "",
+                                        "banner_type": "image"
+                                    },
+                                    {
+                                        "url": "https:\/\/images.pexels.com\/photos\/323682\/pexels-photo-323682.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                                        "status": "active",
+                                        "action_type": "none",
+                                        "action_value": "",
+                                        "banner_type": "image"
+                                    },
+                                    {
+                                        "url": "https:\/\/images.pexels.com\/photos\/718742\/pexels-photo-718742.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                                        "status": "active",
+                                        "action_type": "none",
+                                        "action_value": "",
+                                        "banner_type": "image"
+                                    },
+                                    {
+                                        "url": "https:\/\/images.pexels.com\/photos\/2097090\/pexels-photo-2097090.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                                        "status": "active",
+                                        "action_type": "none",
+                                        "action_value": "",
+                                        "banner_type": "image"
+                                    },
+                                    {
+                                        "url": "https:\/\/images.pexels.com\/photos\/2562992\/pexels-photo-2562992.png?auto=compress&cs=tinysrgb&w=1600",
+                                        "status": "active",
+                                        "action_type": "none",
+                                        "action_value": "",
+                                        "banner_type": "image"
+                                    },
+                                    {
+                                        "url": "https:\/\/images.pexels.com\/photos\/52518\/jeans-pants-blue-shop-52518.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                                        "status": "active",
+                                        "action_type": "none",
+                                        "action_value": "",
+                                        "banner_type": "image"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "tenant_id": 1003,
+                        "user_page_id": 2,
+                        "key": "ProductCategories",
+                        "type": "ProductCategories",
+                        "created_at": "2023-05-20T15:37:26.000000Z",
+                        "updated_at": "2023-05-20T15:37:26.000000Z",
+                        "attributes": [
+                            {
+                                "value": "Product Categories",
+                                "type": "Text",
+                                "key": "Title"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "tenant_id": 1003,
+                        "user_page_id": 2,
+                        "key": "FeaturedMerchants",
+                        "type": "FeaturedMerchants",
+                        "created_at": "2023-05-20T15:37:26.000000Z",
+                        "updated_at": "2023-05-20T15:37:26.000000Z",
+                        "attributes": [
+                            {
+                                "value": "Featured Merchants",
+                                "type": "Text",
+                                "key": "Title"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 5,
+                        "tenant_id": 1003,
+                        "user_page_id": 2,
+                        "key": "NearbyMerchants",
+                        "type": "NearbyMerchants",
+                        "created_at": "2023-05-20T15:37:26.000000Z",
+                        "updated_at": "2023-05-20T15:37:26.000000Z",
+                        "attributes": [
+                            {
+                                "value": "Nearby Merchants",
+                                "type": "Text",
+                                "key": "Title"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "tenant_id": 1003,
+                "merchant_id": null,
+                "key": "MerchantHomePage",
+                "type": "MerchantHomePage",
+                "created_at": "2023-05-20T15:37:26.000000Z",
+                "updated_at": "2023-05-20T15:37:26.000000Z",
+                "sections": [
+                    {
+                        "id": 6,
+                        "tenant_id": 1003,
+                        "user_page_id": 3,
+                        "key": "CoverWithProfilePicture",
+                        "type": "CoverWithProfilePicture",
+                        "created_at": "2023-05-20T15:37:26.000000Z",
+                        "updated_at": "2023-05-20T15:37:26.000000Z",
+                        "attributes": []
+                    },
+                    {
+                        "id": 7,
+                        "tenant_id": 1003,
+                        "user_page_id": 3,
+                        "key": "MerchantProducts",
+                        "type": "MerchantProducts",
+                        "created_at": "2023-05-20T15:37:26.000000Z",
+                        "updated_at": "2023-05-20T15:37:26.000000Z",
+                        "attributes": [
+                            {
+                                "value": [],
+                                "type": "Empty",
+                                "key": "MerchantProductsAttribute"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "globalSections": [
+            {
+                "id": 9,
+                "tenant_id": 1003,
+                "user_page_id": null,
+                "key": "Header",
+                "type": "Header",
+                "created_at": "2023-05-20T15:37:26.000000Z",
+                "updated_at": "2023-05-20T15:37:26.000000Z",
+                "attributes": [
+                    {
+                        "value": "Heading Text",
+                        "type": "Text",
+                        "key": "HeadingText"
+                    },
+                    {
+                        "value": "https:\/\/via.placeholder.com\/150",
+                        "type": "Image",
+                        "key": "HeaderImage"
+                    }
+                ]
+            },
+            {
+                "id": 10,
+                "tenant_id": 1003,
+                "user_page_id": null,
+                "key": "Footer",
+                "type": "Footer",
+                "created_at": "2023-05-20T15:37:26.000000Z",
+                "updated_at": "2023-05-20T15:37:26.000000Z",
+                "attributes": [
+                    {
+                        "value": "Footer Text",
+                        "type": "Text",
+                        "key": "FooterText"
+                    }
+                ]
+            }
+        ]
+    },
+    "service": "pagebuilder",
+    "status_code": 200
 }
